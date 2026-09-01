@@ -1,0 +1,1204 @@
+[
+  {
+    "icon": "T_UI_ICN_Boons_AbsolutioninIce.png",
+    "boon": "Absolution in Ice",
+    "effect": "Freezing marked enemies deals a large amount of cold damage to them."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_AegisofFrost.png",
+    "boon": "Aegis of Frost",
+    "effect": "When you Block an enemy attack, they take 350 Frost."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_AftershockTechnique.png",
+    "boon": "Aftershock Technique",
+    "effect": "Weapon Art attacks that create ground damage zones fire twice."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_AngelicStrength.png",
+    "boon": "Angelic Strength",
+    "effect": "While Angel Ascension is active, your Weapon Attacks gain +20% Bonus Attack Power."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_AscendantAuras.png",
+    "boon": "Ascendant Auras",
+    "effect": "Weapon Art Auras are doubled in size."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_AshenVerdict.png",
+    "boon": "Ashen Verdict",
+    "effect": "When you hit a Burning enemy with a Heavy Attack they have a 50% chance to be Knocked Down."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_BlessedMomentum.png",
+    "boon": "Blessed Momentum",
+    "effect": "When you hit an enemy with a Light Attack while Enraged, you gain Rage."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_BrandofJudgment.png",
+    "boon": "Brand of Judgment",
+    "effect": "When you hit an enemy with a Heavy Attack, they have a 75% chance to become Marked."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_Brewmaster.png",
+    "boon": "Brewmaster",
+    "effect": "Gain 1 additional Max Potion."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ChaliceofConquest.png",
+    "boon": "Chalice of Conquest",
+    "effect": "When you have 0 Health Flasks, you will restore a Health Flask after hitting enemies 8 times."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_CleansingConflagration.png",
+    "boon": "Cleansing Conflagration",
+    "effect": "When you apply Burning to an enemy, enemies within 5 meters of them suffer Burning."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_CleansingPestilence.png",
+    "boon": "Cleansing Pestilence",
+    "effect": "Heavy attack hits have a 30% chance to apply poison. Poison attacks deal +35 Poison."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ConsecratedDraught.png",
+    "boon": "Consecrated Draught",
+    "effect": "Consuming a Flask grants Rage (3 stacks)."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_CrimsonSmite.png",
+    "boon": "Crimson Smite",
+    "effect": "Charged Heavy Attack hits apply 750 Bleed."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_CrownofCinders.png",
+    "boon": "Crown of Cinders",
+    "effect": "You do not take Damage from Burning effects."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_CrusadersFrost.png",
+    "boon": "Crusader\u2019s Frost",
+    "effect": "Your Cold Effects gain +10 power."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_CrusadersMight.png",
+    "boon": "Crusader's Might",
+    "effect": "Attacks deal +20 Physical Damage."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_CrushingRebuke.png",
+    "boon": "Crushing Rebuke",
+    "effect": "When you Parry an enemy, they take (150 Physical Damage)."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_DefiantVigor.png",
+    "boon": "Defiant Vigor",
+    "effect": "When an enemy hits you with an Unblocked Melee Attack, you recover 20 Stamina."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_DivineEndurance.png",
+    "boon": "Divine Endurance",
+    "effect": "While your health is at or below 40%, you gain a 100% Bonus to Angelic Grace Recovery."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_DivineFocus.png",
+    "boon": "Divine Focus",
+    "effect": "When you hit a Staggered enemy, they become Marked."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_DivineMandate.png",
+    "boon": "Divine Mandate",
+    "effect": "When you Enter or Exit Angel Mode, all enemies within 7 meters of you are Marked."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_DivineReprieve.png",
+    "boon": "Divine Reprieve",
+    "effect": "If you kill 3 or more enemies while in Angel Ascension, you restore a Health Flask when you exit"
+  },
+  {
+    "icon": "T_UI_ICN_Boons_DivineReservoir.png",
+    "boon": "Divine Reservoir",
+    "effect": "+50 Max Mana."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_EdictofCondemnation.png",
+    "boon": "Edict of Condemnation",
+    "effect": "Executing an enemy Marks all enemies within 7 meters"
+  },
+  {
+    "icon": "T_UI_ICN_Boons_EnduringRage.png",
+    "boon": "Enduring Rage",
+    "effect": "+25% Enraged Duration."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_EnduringVow.png",
+    "boon": "Enduring Vow",
+    "effect": "+15 Max Stamina."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ExecutionersReward.png",
+    "boon": "Executioner\u2019s Reward",
+    "effect": "Killing an enemy with a Weapon Art recovers 30 Health."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ExecutorsStrength.png",
+    "boon": "Executor's Strength",
+    "effect": "Executing an enemy grants +5 Max Health."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_FlowofCombat.png",
+    "boon": "Flow of Combat",
+    "effect": "Weapon Art damage grants Rage."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_FontofConviction.png",
+    "boon": "Font of Conviction",
+    "effect": "Charged Heavy Attack hits against Marked enemies recover 15 Mana."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_FontofLight.png",
+    "boon": "Font of Light",
+    "effect": "+15% Angelic Grace Recovery."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_Frenzy.png",
+    "boon": "Frenzy",
+    "effect": "On killing an Elite enemy, you gain Rage."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_FrostboundCharge.png",
+    "boon": "Frostbound Charge",
+    "effect": "Sprint Attack hits apply 1000 Frost"
+  },
+  {
+    "icon": "T_UI_ICN_Boons_FrostbrandSeal.png",
+    "boon": "Frostbrand Seal",
+    "effect": "Parrying an enemy applies 1000 Frost."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_FrozenVow.png",
+    "boon": "Frozen Vow",
+    "effect": "Light Attack hits apply 200 Frost."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_Garrote.png",
+    "boon": "Garrote",
+    "effect": "Backstab inflicts Bleeding."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_GracefulStrike.png",
+    "boon": "Graceful Strike",
+    "effect": "When you hit a Marked enemy with a Light Attack, you recover 1 Angelic Grace."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_GuardianAngel.png",
+    "boon": "Guardian Angel",
+    "effect": "Entering Angel Ascension creates a zone where players inside gain 30% Resistance to all damage."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_HardenedFury.png",
+    "boon": "Hardened Fury",
+    "effect": "While Enraged you gain 20% bonus to all Resistances."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_HuntersStrike.png",
+    "boon": "Hunter\u2019s Strike",
+    "effect": "When you hit an enemy with a Light Attack, they have a 25% chance to become Marked."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SunfireAegis.png",
+    "boon": "Holy Fire Aegis",
+    "effect": "When you block an enemy attack, they have a 50% chance to suffer Burning."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_InvigoratingBlood.png",
+    "boon": "Invigorating Blood",
+    "effect": "Executing an enemy grants +5 Max Stamina."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_JudgementsMark.png",
+    "boon": "Judgement\u2019s Mark",
+    "effect": "When you Block an enemy attack, there is a 15% chance to apply Marked to the enemy."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_JudgmentofWinter.png",
+    "boon": "Judgment of Winter",
+    "effect": "When you hit an enemy with a Heavy Attack, they suffer 350 Frost."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_LastBastion.png",
+    "boon": "Last Bastion",
+    "effect": "While your Health is below 40%, you gain a +40 Bonus to Physical Defenses."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_LastLight.png",
+    "boon": "Last Light",
+    "effect": "While your Health is at or below 40%, you recover 1% of your Health each second."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ManaDrain.png",
+    "boon": "Mana Drain",
+    "effect": "Executing an enemy grants +5 Max Mana."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_MartyrsGift.png",
+    "boon": "Martyr\u2019s Gift",
+    "effect": "When you take Damage, you recover Mana equal to 25% of the amount taken."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_MomentumCharge.png",
+    "boon": "Momentum Charge",
+    "effect": "When you hit an enemy with a Sprint Attack, you gain Rage (2 stacks)."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_OathboundArts.png",
+    "boon": "Oathbound Arts",
+    "effect": "+20% Elemental Damage."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_OathswornReturn.png",
+    "boon": "Oathsworn Return",
+    "effect": "Recover 1 Life in your Life Pool upon accepting."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_OnaPaleHorse.png",
+    "boon": "On a Pale Horse",
+    "effect": "When you Enter Angel Ascension, Poison all enemies within 5 meters, Weapon Attacks in Angel Ascension apply 250 Poison."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_PatientZero.png",
+    "boon": "Patient Zero",
+    "effect": "Being Poisoned no longer Damages you."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_PurgingFire.png",
+    "boon": "Purging Fire",
+    "effect": "Your Fire Effects gain +35 power."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_Pyromancer.png",
+    "boon": "Pyromancer",
+    "effect": "When you hit a target with a Weapon Art, they suffer Burning."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_RadiantFortitude.png",
+    "boon": "Radiant Fortitude",
+    "effect": "+50 Max Health."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ReapersRespite.png",
+    "boon": "Reaper\u2019s Respite",
+    "effect": "When you kill an enemy, you recover 15 Health."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_RelentlessMomentum.png",
+    "boon": "Relentless Momentum",
+    "effect": "+20% Damage from Sprint Attacks."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ResoundingCharge.png",
+    "boon": "Resounding Charge",
+    "effect": "When you hit an enemy with a Sprint Attack, you gain +25 stamina."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ResoundingFlames.png",
+    "boon": "Resounding Flames",
+    "effect": "When you parry, enemies within 7 meters suffer Burning."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_RisingTempo.png",
+    "boon": "Rising Tempo",
+    "effect": "After 3 hits on a single target within 3 seconds, you gain Rage."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SanctifiedRhythm.png",
+    "boon": "Sanctified Rhythm",
+    "effect": "When you hit an enemy with a Light Attack, you have a 25% chance to gain Rage."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_Sanguimancer.png",
+    "boon": "Sanguimancer",
+    "effect": "Light Attack hits against a Bleeding enemy recover 15 Mana."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SanguineCharge.png",
+    "boon": "Sanguine Charge",
+    "effect": "When you hit an enemy with a Sprint Attack, they take 1000 Bleed."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SanguineSlam.png",
+    "boon": "Sanguine Slam",
+    "effect": "Heavy Attack hits apply 500 Bleed."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SanguineSlice.png",
+    "boon": "Sanguine Slice",
+    "effect": "Attacks apply 100 Bleed."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SanguineStrike.png",
+    "boon": "Sanguine Strike",
+    "effect": "Light Attack hits apply 250 Bleed."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ScorchingCharge.png",
+    "boon": "Scorching Charge",
+    "effect": "Sprint Attack hits apply Burning."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ScorchingTechnique.png",
+    "boon": "Scorching Technique",
+    "effect": "When you damage an enemy with a Weapon Art, they have a 75% chance to suffer Burning."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ScorchingVerdict.png",
+    "boon": "Scorching Verdict",
+    "effect": "When you hit an enemy with a Heavy Attack, they have a 75% chance to suffer Burning."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ScourgeoftheUnfaithful.png",
+    "boon": "Scourge of the Unfaithful",
+    "effect": "When you kill an enemy, all enemies within 7 meters of you suffer Sunderance."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SealofBlight.png",
+    "boon": "Seal of Blight",
+    "effect": "When you Parry an enemy, they become Poisoned."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SealofFlame.png",
+    "boon": "Seal of Flame",
+    "effect": "When you Parry an enemy, they suffer Burning (2 Stacks)."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SecondWind.png",
+    "boon": "Second Wind",
+    "effect": "While your health is at or below 40%, you gain 100% Bonus to Stamina Recovery."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ShieldofMany.png",
+    "boon": "Shield of Many",
+    "effect": "When you parry an enemy attack, all enemies within 7 meters of you are pushed back. (Cooldown: 10 seconds)"
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SoulboundMight.png",
+    "boon": "Soulbound Might",
+    "effect": "+5% Physical Damage per 1000 Souls held (max +50%)."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SoulboundSorcery.png",
+    "boon": "Soulbound Sorcery",
+    "effect": "+5% Elemental Damage per 1000 Souls held (max +50%)."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_StrongBrew.png",
+    "boon": "Strong Brew",
+    "effect": "All Health and Mana Flask restoration effects are doubled on the player."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SunderingStrikes.png",
+    "boon": "Sundering Strikes",
+    "effect": "Light Attack hits have a 50% chance to apply Sunderance."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_TemplarRevive.png",
+    "boon": "Templar Revive",
+    "effect": "While Reviving an ally, you gain +50% Damage Resistance and +50% Poise Damage Resistance."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ToxicStrike.png",
+    "boon": "Toxic Strike",
+    "effect": "Light Attack hits apply 250 Poison."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_TrialByFlame.png",
+    "boon": "Trial By Flame",
+    "effect": "When you hit an enemy with an Attack, they have a 25% chance to suffer Burning."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_TrialofSuffering.png",
+    "boon": "Trial of Suffering",
+    "effect": "While suffering from (Burn, Frost, Poison, or Bleed), you gain +25% Attack Bonus to all Attacks."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_TrialoftheFallen.png",
+    "boon": "Trial of the Fallen",
+    "effect": "When you kill an enemy, you gain Rage."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_UnyieldingPyre.png",
+    "boon": "Unyielding Pyre",
+    "effect": "+25% Burning Duration."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_VigorousStrikes.png",
+    "boon": "Vigorous Strikes",
+    "effect": "When you hit an enemy with a Heavy Attack, you recover 10 Stamina."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_Vivisection.png",
+    "boon": "Vivisection",
+    "effect": "+30% Riposte Damage"
+  },
+  {
+    "icon": "T_UI_ICN_Boons_VowofRetribution.png",
+    "boon": "Vow of Retribution",
+    "effect": "Bonus Damage from Marked increased by 25%."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_WrathfulSmite.png",
+    "boon": "Wrathful Smite",
+    "effect": "When you hit an enemy with a fully Charged Heavy Attack, you recover 3 Angelic Grace."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ZealoftheFaithful.png",
+    "boon": "Zeal of the Faithful",
+    "effect": "You and allies within 10 meters of you deal (+10% Damage vs Burning enemies)."
+  }
+]
+{
+  "weapons": [
+    {
+      "icon": "T_Weapon_CrudeBanditAxe_1024.png",
+      "name": "Crude Bandit Axe",
+      "description": "A crude single-bit axe sharpened on whatever stone the wielder could find.\n\nFavored by highwaymen of the Treveyan roads and the press-ganged crews of the Velchorian docks. Most are stolen; the rest are paid for in stolen coin.",
+      "type": "1H Axe",
+      "weapon_art": "",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Axe_Guitar_1024.png",
+      "name": "Axe of the Gods",
+      "description": "Behold the legendary of Axe of The Gods. Forged from the heaviest of metals, and wielded by only the most brutal of warriors.",
+      "type": "1H Axe",
+      "weapon_art": "Empower",
+      "unlock_source": "Deluxe Edition"
+    },
+    {
+      "icon": "T_Weapon_OneHandedHammer_01_1024.png",
+      "name": "Soldier's Hammer",
+      "description": "A short-hafted war-hammer issued to Velchorian line infantry.\n\nMade by the same forges that strike the Crusader Longsword, in lower grade and at higher volume.\n\nThe men who carry them outnumber the men who carry swords by roughly five to one.",
+      "type": "1H Hammer",
+      "weapon_art": "Earthen Strike",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_OneHandedHammer_02_1024.png",
+      "name": "Morning Star",
+      "description": "A heavy spiked mace, swung for the breaking of plate and the men inside it.\n\nA Velchorian sergeant's favorite when the line breaks; the spikes catch on shield-rims and pull them down in a way an edged weapon will not.",
+      "type": "1H Hammer",
+      "weapon_art": "Bleed Projectiles",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_Broadsword_1024.png",
+      "name": "Broadsword",
+      "description": "A standard-issue broadsword carried by Velchorian footmen and freeholders.\n\nForged at the foundries of Sadrys and Belwayne in army-quantities.\n\nMost men of Eden hold one in their first battle, and a fair number carry one through their last.",
+      "type": "1H Sword",
+      "weapon_art": "",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_ObsidianShard_1024.png",
+      "name": "Obsidian Shard",
+      "description": "An ancient worn blade corrupted by abyssal magick. It's essence pierces the very soul of its foes, bypassing most defenses.\n\nThe Seekers, devotees in service to Aegoroth, were blind scholars who dwelled in the deep dark beneath the lands.",
+      "type": "1H Sword",
+      "weapon_art": "Bleed Projectiles",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_CrimsonOathBroadsword_1024.png",
+      "name": "Crimson Oath Broadsword",
+      "description": "A hefty broadsword wielded by the Nephilim Paladins of the Order of the Crimson Moon.\n\nThe armaments of the Order take advantage of the Nephilim's innate strength, leveraging weight and durability that would be a hindrance for mortal man.",
+      "type": "1H Sword",
+      "weapon_art": "Impaling Throw",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_ChampionSword_1024.png",
+      "name": "Champion\u2019s Sword",
+      "description": "A blade forged for Champions, Nephilim heroes from the Armaean city-state of Litinstang.\n\nThe rare few Nephilim who have proven themselves loyal to Litinstang are protected from Lunitarian law.",
+      "type": "1H Sword",
+      "weapon_art": "Earthen Strike",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_CovenantClericSword_1024.png",
+      "name": "Covenant Sword",
+      "description": "A sword wielded by Covenant Clerics, elite knights of the Lunitarian Covenant Crusaders.\n\nIt is expected for chaplains to be adept in combat as well as theology.\n\nMasters of warfare both physical and spiritual.",
+      "type": "1H Sword",
+      "weapon_art": "Impaling Throw",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_Apostate_Sword_1024.png",
+      "name": "Recantation",
+      "description": "A Lunitarian execution blade, drawn only at the close of an Apostate Hunt.\n\nForged from the swords seized at the signing of the Crimson Concordat.\n\nThe Church's ledgers name every Nephilim who has carried it; the ledgers do not name the apostates it has put down.",
+      "type": "1H Sword",
+      "weapon_art": "Gouging Throw",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_RevenantSword_1024.png",
+      "name": "Revenant Blade",
+      "description": "An accursed sword once thought to be lost to legend.\n\nThe Revenant of Gildeus haunted the depths of Gildenarch.\n\nWatching over the forgotten dead buried under the Church's occupation.",
+      "type": "1H Sword",
+      "weapon_art": "Winter Sun",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_DragonSlayerGreatsword_1024.png",
+      "name": "Dragon Assassin Broadsword",
+      "description": "A hefty broadsword wielded by Dragon Assassins.\n\nSlaying dragons is a time honored service in the Velchorian Empire.\n\nHistorically taken up by humans, now predominantly pursued by Nephilim.",
+      "type": "1H Sword",
+      "weapon_art": "Fire Burst",
+      "unlock_source": "Tyrigon"
+    },
+    {
+      "icon": "T_Weapon_Flamesword_1024.png",
+      "name": "Fiery Broadsword",
+      "description": "An unusual broadsword imbued with a fire enchantment.\n\nAlthough heavily regulated by the Church, enchantments are among the most common forms of magick allowed within the Adamaic Empire.",
+      "type": "1H Sword",
+      "weapon_art": "Fire Burst",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_FlameswordOrnate_1024.png",
+      "name": "Sanctus Pyre",
+      "description": "An inquisitor's flamberge, its crossguard wrought into a thorn-halo around a single drop of red glass.\n\nCarried by the Pyresworn, a Lunitarian inquisitorial order tasked with the burning of heretics by sentence and the burning of villages by mistake.\n\nThe red glass is said to hold a tear of the saint who founded them.",
+      "type": "1H Sword",
+      "weapon_art": "Phoenix Flare",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_SovereignSword_1024.png",
+      "name": "Sovereign\u2019s Sword",
+      "description": "A longsword issued to the Sovereign Sentries of the Velchorian throne.\n\nThe Sentries answer to the imperial crown and not the Church.\n\nThe distinction is small in peacetime\u2026 not so in war.",
+      "type": "1H Sword",
+      "weapon_art": "Purifying Blast",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_Longsword_1024.png",
+      "name": "Crusader Longsword",
+      "description": "The standard-issued imperial longsword, wielded by the Covenant Crusaders.\n\nThe Covenant Crusader is the enforcer of the Lunitarian Church's will, and is infamous across Eden for their passion and zealotry.\n\nDesigned for effective thrusting and is moderately useful for slashing.",
+      "type": "1H Sword",
+      "weapon_art": "",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_Lumenfel_1024.png",
+      "name": "Lumenfel",
+      "description": "An ancient sword imbued with the Divine's holy moonlight. Its edge delivers immense Holy damage.\n\nThis blade's original bearer has been lost to history yet its identity and purpose remains clear.\n\nThe full moon cuts through darkness.",
+      "type": "1H Sword",
+      "weapon_art": "Pillars of Light",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_LostLegionnaireSword_1024.png",
+      "name": "Blasphemous Accord",
+      "description": "A wicked blade wielded by the demonic footsoldiers of the Infernal Lost Legion.\n\nThe blade looks as if it will perish after serving its usefulness. The legion wastes nothing in their conquests, for they have nothing left to lose.",
+      "type": "1H Sword",
+      "weapon_art": "Poison Caltrops",
+      "unlock_source": "The Warden"
+    },
+    {
+      "icon": "T_Weapon_LunarSentinel_1024.png",
+      "name": "Sword of the Lunar Sentinel",
+      "description": "The Lunar Sentinels harken to a time before Lunarin's ascendance to the Divine Throne.\n\nAny mentions of Lunarin worship before the Church are considered a vile heresy.\n\nAttracting great skepticism and condemnation towards anyone seeking to revive ancient knowledge... now considered outdated.",
+      "type": "1H Sword",
+      "weapon_art": "Winter Sun",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_MahktenSword_1024.png",
+      "name": "Burning Heart",
+      "description": "A smoldering blade wielded by the extinct Mahkten Marrauders. Bestial warriors in service to The Lord of Perdition.\n\nIn times of old, when the Coil was yet whole, war dominated the lands of Eden, and none were more adept than Mahkteah's devoted.",
+      "type": "1H Sword",
+      "weapon_art": "Aura of the Burning Heart",
+      "unlock_source": "Mahkteah, The Lord of Perdition"
+    },
+    {
+      "icon": "T_Weapon_SwordOfRot_1024.png",
+      "name": "Rotkin\u2019s Thorn",
+      "description": "A corrupted blade forged from the bones of an ancient beast.\n\nThe tragic corruption of the ancient Stagkin is felt today through their wicked weaponry.\n\nAlthough brittle in appearance, these swords are anything but.",
+      "type": "1H Sword",
+      "weapon_art": "Sword of Rot",
+      "unlock_source": "E'frae, the Dry Rot King"
+    },
+    {
+      "icon": "T_Weapon_PhoenixPaladinSword_1024.png",
+      "name": "Belwayne Sword",
+      "description": "A beautiful longsword wielded by the Phoenix Paladins of Belwayne.\n\nThe Armaean City-State of Belwayne is famous for their Phoenix heraldry and ornate weapons and armor.",
+      "type": "1H Sword",
+      "weapon_art": "Avenging Pestilence",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_RamSword_1024.png",
+      "name": "Gildenarch's Glory",
+      "description": "A magnificent weapon forged in honor of Gildenarch.\n\nThe magnificant rams of the Treveyan Highlands have long inspired the city of Gildenarch since the days before the city's founding.\n\nNo matter what changes, some truth yet remains.",
+      "type": "1H Sword",
+      "weapon_art": "Valak Slam",
+      "unlock_source": "General Valahk - Nor"
+    },
+    {
+      "icon": "T_Weapon_SanctusZealot_1024.png",
+      "name": "Axiom",
+      "description": "An ancient sword integral to Lunitarian history, both feared and respected.\n\nThe sword Axiom symbolized Lunitarian dominance and the eradication of paganism.\n\nIts namesake is an assertion of the new world order that followed the War of the Gods.",
+      "type": "1H Sword",
+      "weapon_art": "Bleed Projectiles",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_VampireSword1_1024.png",
+      "name": "Scirax",
+      "description": "The sword of Clan Telvaught.\n\nFew tales do justice to the feuds between Eden's vampire clans than that of Clan Moore's seizure of Telvaught's legendary Scirax.\n\nTaken from the corpse of Lord Erington.",
+      "type": "1H Sword",
+      "weapon_art": "Gouging Throw",
+      "unlock_source": "Felwyl, The Withered"
+    },
+    {
+      "icon": "T_Weapon_CardinalStaff_1024.png",
+      "name": "Defiled Night",
+      "description": "A long ceremonial staff carried by Cardinals of the Lunitarian Church, hafted for both rite and reach.\n\nCardinal Mathias carried his into the Archspire Cathedral on the night Solomon's vampires walked through the doors he had unlocked himself.",
+      "type": "Polearm",
+      "weapon_art": "Cardinal's Staff",
+      "unlock_source": "Cardinal Mathias"
+    },
+    {
+      "icon": "T_Weapon_CrescentMoonHalberd_1024.png",
+      "name": "Crescent Moon Halberd",
+      "description": "A halberd whose hooked blade is forged in the silhouette of a waning moon.\n\nThe crescent predates the Lunitarian Church; smiths who still strike it into steel work in private, and only by commission from buyers who do not write their names down.",
+      "type": "Polearm",
+      "weapon_art": "Winter Solstice",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_HellgrowthGlaive_1024.png",
+      "name": "Akyreon's Tongue",
+      "description": "A glaive grown from Hellgrowth, its blade still warm to the touch.\n\nCut from raw biomass before it could thicken into a hive's nervous tissue, and bound in iron to keep it from rooting again.\n\nThe Order's smiths burn the binding salts each dawn; on the days they forget, the blade is found longer than the day before.",
+      "type": "Polearm",
+      "weapon_art": "Egregore Explosion",
+      "unlock_source": "Flesh-Wrought Egregore"
+    },
+    {
+      "icon": "T_Weapon_LeviathanGreataxe_1024.png",
+      "name": "Leviathan Great Axe",
+      "description": "A great axe forged in Velchoria's harbor districts, sized for whaling crews.\n\nThey hunted the leviathans of the Vulken Sea before the leviathans stopped surfacing.\n\nThe axes remain in the rafters of the old whale-houses; the smiths who reforge them say the steel smells of the deep while they cool.",
+      "type": "Polearm",
+      "weapon_art": "Reaper Whirlwind",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_PodaoSaberGlaive_1024.png",
+      "name": "Drakeward",
+      "description": "A gilded saber-glaive carried by the honor guards of the Aurullian sun-courts.\n\nForged for ceremony before war, the dragon-scroll on the blade is older than the iron beneath it.\n\nThe guards have carried these long enough that the families of the courts have forgotten which served whom.",
+      "type": "Polearm",
+      "weapon_art": "Whirlwind",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_ReaperPoleaxe_1024.png",
+      "name": "Reaper Poleaxe",
+      "description": "A poleaxe fashioned from a harvest scythe, the curve hammered straight and the haft re-bound in iron.\n\nThe peasants of the Velchorian inlands used them for planting.\n\nSome still smell of the wheat they once cut.",
+      "type": "Polearm",
+      "weapon_art": "Homing Projectiles",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_SpikeBackedHalberd_1024.png",
+      "name": "Wyrmtongue",
+      "description": "A noble's hunting glaive, its socket cast as a dragon's mouth and the red gem set as its eye.\n\nCarried in the deer-parks of the Velchorian high estates, where the only dragons left in Eden are the ones smiths still remember well enough to shape.",
+      "type": "Polearm",
+      "weapon_art": "Rupturing Slash",
+      "unlock_source": ""
+    },
+    {
+      "icon": "T_Weapon_VampiricHalberd_1024.png",
+      "name": "Cultravix",
+      "description": "A long-hafted halberd carried by the foot soldiers of Eden's vampire clans.\n\nThe blades are sharpened to draw blood quickly and the staves grooved to drink it; vampires who must fight in the open prefer their kills tidy.",
+      "type": "Polearm",
+      "weapon_art": "Rupturing Slash",
+      "unlock_source": "Felwyl, The Ascended"
+    }
+  ],
+  "shields": [
+    {
+      "icon": "T_Shield_DarkNephilimDesign3_1024.png",
+      "name": "Apostate's Shield",
+      "description": "A shield carried by Nephilim who refused the Crimson Concordat and lived long enough to need one.\n\nMost were taken from the dead at the close of the first Apostate Hunts.\n\nThe few that were not are still in the field, and the Order does not press inquiries.",
+      "type": "Shield",
+      "weapon_art": "Shield Bash"
+    },
+    {
+      "icon": "T_Shield_Champion_1024.png",
+      "name": "Champion Shield",
+      "description": "Shield forged for Champions. Nephilim heroes from the Armaean citystate of Litinstang.\n\nThe rare few Nephilim who have proven themselves loyal to Litinstang are protected from Lunitarian law.",
+      "type": "Shield",
+      "weapon_art": "Shield Bash"
+    },
+    {
+      "icon": "T_Shield_CovenantCleric_1024.png",
+      "name": "Covenant Cleric Shield",
+      "description": "A heater shield carried by Covenant Clerics, the warrior-priests of the Crusader corps.\n\nThe cleric raises it against demons and dissenters alike; in the Church's reckoning, the difference between the two is a matter of confession.",
+      "type": "Shield",
+      "weapon_art": "Empower"
+    },
+    {
+      "icon": "T_Shield_CrimsonOath_1024.png",
+      "name": "Crimson Oath Shield",
+      "description": "A tower shield bearing the sigil of the Crimson Concordat, issued to Nephilim of the Order.\n\nThe bond between Church and Order is rendered in steel and hung from the bearer's arm, carried by some as a vow honored and others as a debt remembered.",
+      "type": "Shield",
+      "weapon_art": "Shield Bash"
+    },
+    {
+      "icon": "T_Shield_LunarSentinel_1024.png",
+      "name": "Lunar Sentinel Shield",
+      "description": "The Lunar Sentinels harken to a time before Lunarin's ascendance to the Divine Throne.\n\nAny mentions of Lunarin worship before the Church are considered a vile heresy, attracting great skepticism and condemnation towards anyone \"seeking to revive ancient knowledge\" now considered outdated.",
+      "type": "Shield",
+      "weapon_art": "Ice Trail"
+    },
+    {
+      "icon": "T_Shield_DarkNephilimDesign2_1024.png",
+      "name": "Mahkten Shield",
+      "description": "A smoldering shield wielded by the extinct Mahkten Marauders. Bestial warriors in service to The Lord of Perdition.\n\nIn times of old, when the Coil was yet whole, war dominated the lands of Eden, and none were more adept than Mahkteah's devoted.",
+      "type": "Shield",
+      "weapon_art": "Fireball"
+    },
+    {
+      "icon": "T_Shield_MetalShield_Ornate_1024.png",
+      "name": "Ornate Soldier's Shield",
+      "description": "An ornate shield issued to knights who stood watch over the Archspire Cathedral.\n\nImmaculate, and functional. The empire spent a good deal of coin when the Church demanded it.",
+      "type": "Shield",
+      "weapon_art": "Shield Bash"
+    },
+    {
+      "icon": "T_Shield_PhoenixPaladin_1024.png",
+      "name": "Belwayne Aegis",
+      "description": "A round aegis of gold and silver, two phoenix wings spread around a central sunburst.\n\nForged in Belwayne, where the phoenix is both heraldry and religion.\n\nThe Order keeps a small consignment for the Nephilim who came up through that city's halls.",
+      "type": "Shield",
+      "weapon_art": "Fire Trail"
+    },
+    {
+      "icon": "T_Shield_DarkNephilimDesign1_1024.png",
+      "name": "Revenant Shield",
+      "description": "An accursed shield, once thought to be lost to legend.\n\nThe Revenant of Gildeus haunted depths of Gildenarch, watching over the forgotten dead buried under the Church's occupation.",
+      "type": "Shield",
+      "weapon_art": "Shield Bash"
+    },
+    {
+      "icon": "T_Shield_Pagan_1024.png",
+      "name": "Rotkin Shield",
+      "description": "A shield of woven antler and root, knotted by the Stagkin in better times.\n\nTheir god has since begun to rot. The Rotkin still carry these shields; the antlers crumble and the roots no longer hold green leaf, but they say a shield need not live to defend its bearer, only remember its bearer's god.",
+      "type": "Shield",
+      "weapon_art": "Poison Trail"
+    },
+    {
+      "icon": "T_Shield_RamArmor_1024.png",
+      "name": "Shield of the Ram\u2019s Glory",
+      "description": "A magnificent shield forged in honor of Gildenarch.\n\nThe magnificant rams of the Treveyan Highlands have long inspired the city of Gildenarch since the days before the city's founding.\n\nNo matter what changes, some truth yet remains.",
+      "type": "Shield",
+      "weapon_art": "Shield Bash"
+    },
+    {
+      "icon": "T_Shield_SanctusZealot_1024.png",
+      "name": "Shield of the Zealot",
+      "description": "An ancient shield integral to Lunitarian history, both feared and respected.\n\nThe Holy Lineage drew a clear delineation between the Lunar Sentinels and the Church.\n\nThe Sanctus Zealot enforced the New Order.",
+      "type": "Shield",
+      "weapon_art": "Angelic Bulwark"
+    },
+    {
+      "icon": "T_Shield_MetalShield_1024.png",
+      "name": "Soldier\u2019s Shield",
+      "description": "A heater shield issued to Velchorian foot soldiers, faced in plain steel and trimmed in tarred leather.\n\nWeather-worn but serviceable; the Empire issues them in a single grade and replaces them only when the rim splits past the boss.",
+      "type": "Shield",
+      "weapon_art": "Shield Bash"
+    },
+    {
+      "icon": "T_Shield_Sovereign_1024.png",
+      "name": "Sovereign\u2019s Shield",
+      "description": "A tower shield bearing the heron of the Velchorian throne.\n\nCarried by Sovereign Sentries in the halls of the imperial court.\n\nThe herons were once the only banner the Empire flew; now they fly beneath the Lunitarian moon, and the Sentries say nothing about it.",
+      "type": "Shield",
+      "weapon_art": "Angelic Bulwark"
+    },
+    {
+      "icon": "T_Shield__Wooden_Ornate_1024.png",
+      "name": "Tarnished Wooden Shield",
+      "description": "A wooden shield, weather-worn and softened by moss along its grain.\n\nSalvaged from the bodies of conscripted militia who fell in the city's first night, before the Order arrived and the dying stopped being counted.",
+      "type": "Shield",
+      "weapon_art": "Shield Bash"
+    },
+    {
+      "icon": "T_Shield_Vampire_1024.png",
+      "name": "Telvaught Clan Shield",
+      "description": "The shield of the vampire clan Telvaught.\n\nVampire Clans engage in ideological conlicts no better than humanity.\n\nClan Telvaught knew this well, and was always prepared for battle against their kin.",
+      "type": "Shield",
+      "weapon_art": "Bleed Projectiles"
+    }
+  ]
+}
+[
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_Apostate_1024.png",
+      "chest": "T_Armor_Cuirass_Apostate_1024.png",
+      "gauntlets": "T_Armor_Gauntlets_Apostate_1024.png",
+      "legs": "T_Armor_Legs_Apostate_1024.png"
+    },
+    "armor_set": "'''Apostate'''",
+    "description": "Crude set of armor worn by Nephilim Apostates. Designed to invert and mock the Order of the Crimson Moon.",
+    "source": ""
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_Autumnal_1024.png",
+      "chest": "T_Armor_Cuirass_Autumnal_1024.png",
+      "gauntlets": "T_Armor_Guantlets_Autumnal_1024.png",
+      "legs": "T_Armor_Legs_Autumnal_1024.png"
+    },
+    "armor_set": "'''Autumnal'''",
+    "description": "A symbol of strength, speed, and yes, single-minded stubbornness in the pursuit of a goal, this beautiful Autumnal Cuirass will carry you into battle. Best not to think about it too much.",
+    "source": ""
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_PhoenixPaladin_1024.png",
+      "chest": "T_Armor_Cuirass_PhoenixPaladin_1024.png",
+      "gauntlets": "T_Armor_Gauntlets_PhoenixPaladin_1024.png",
+      "legs": "T_Armor_Legs_PhoenixPaladin_1024.png"
+    },
+    "armor_set": "'''Belwayne Knight'''",
+    "description": "A stunning suit of armor worn by Belwayne's fierce defenders. Adorned in their phoenix heraldry.\n\nThreatened by the arrival of Solomon and the Nachtstahl Steel Mills, the Alemendrals called upon their homeland's knights to protect their interests in Gildenarch. Turning the city's Gilded and Mill Wards into centers of tension between the competing powers.",
+    "source": ""
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_Champion_1024.png",
+      "chest": "T_Armor_Cuirass_Champion_1024.png",
+      "gauntlets": "T_Armor_Gauntlets_Champion_1024.png",
+      "legs": "T_Armor_Legs_Champion_1024.png"
+    },
+    "armor_set": "'''Champion'''",
+    "description": "A cuirass designed for the Champions of Litinstang.\n\nThe city state of Litinstang in southern Armaea is famous for housing gladitorial arenas. Rumor has it some apostates who fled Velchoria found a living entertaining the masses across the sea.",
+    "source": ""
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_CovenantCleric_1024.png",
+      "chest": "T_Armor_Cuirass_CovenantCleric_1024.png",
+      "gauntlets": "T_Armor_Gauntlets_CovenantCleric_1024.png",
+      "legs": "T_Armor_Legs_CovenantCleric_1024.png"
+    },
+    "armor_set": "'''Covenant Cleric'''",
+    "description": "A beautiful cuirass forged in honor of the Cleric's Covenant.\n\nThis was the covenant that finally ended the long-running conflict between two schools of interpretation over the translation of a word meaning either bread or god in the Zehamaic launguage, over which much clerical ink and blood was spilt.",
+    "source": ""
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_DragonSlayer_1024.png",
+      "chest": "T_Armor_Cuirass_DragonSlayer_1024.png",
+      "gauntlets": "T_Armor_Gauntlets_DragonSlayer_1024.png",
+      "legs": "T_Armor_Legs_DragonSlayer_1024.png"
+    },
+    "armor_set": "'''Crimson Dragon Assassin'''",
+    "description": "A cumbersome cuirass, fit only for the toughest Nephilim, designed to stand against a dragon.\n\nThe Lunitarian Church teaches that Dragons are considered the most sinister creatures in all of Eden, tracing their lineage to the vile Demiurge of the Old World.",
+    "source": ""
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_CrimsonOath_1024.png",
+      "chest": "T_Armor_Cuirass_CrimsonOath_1024.png",
+      "gauntlets": "T_Armor_Gauntlets_CrimsonOath_1024.png",
+      "legs": "T_Armor_Legs_CrimsonOath_1024.png"
+    },
+    "armor_set": "'''Crimson Oath'''",
+    "description": "Specially crafted cuirass designed for Nephilim in service to the Knights of the Crimson Moon.\n\nThe Order of the Crimson Moon emerged during the turbulent years following Cain's Dark Crusade. By order of the Crimson Concordat, all Nephilim must serve the Lunitarian Church of Velchoria without question. These feared and respected knights uphold the imperial rule as a last line of defense, though historically this hasn't always been the case.",
+    "source": ""
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_CrimsonOath_V3_1024.png",
+      "chest": "T_Armor_Cuirass_CrimsonOath_V3_1024.png",
+      "gauntlets": "T_Armor_Gauntlets_CrimsonOath_V3_1024.png",
+      "legs": "T_Armor_Legs_CrimsonOath_V3_1024.png"
+    },
+    "armor_set": "'''Divine Oath'''",
+    "description": "A variant of Crimson Oath armor, bestowed upon Nephilim who take The Oath of the Divine.\n\nPaladins belonging to the Oath of the Divine, colloquially known as Gold Hoods, watch over the capital city of Illuminar and its demigod authority, the Holy Lineage. Gold Hoods are a privileged oath, only taken by Nephilim who fought in the Illuminar's defense centuries ago.",
+    "source": ""
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_Dominance_1024.png",
+      "chest": "T_Armor_Cuirass_Dominance_1024.png",
+      "gauntlets": "T_Armor_Guantlets_Dominance_1024.png",
+      "legs": "T_Armor_Legs_Dominance_1024.png"
+    },
+    "armor_set": "'''Dominance'''",
+    "description": "A symbol of strength, speed, and yes, single-minded stubbornness in the pursuit of a goal, this beautiful Dominance Cuirass will carry you into battle. Best not to think about it too much.",
+    "source": ""
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_Epic_1024.png",
+      "chest": "T_Armor_Cuirass_Epic_1024.png",
+      "gauntlets": "T_Armor_Guantlets_Epic_1024.png",
+      "legs": "T_Armor_Legs_Epic_1024.png"
+    },
+    "armor_set": "'''Epoch'''",
+    "description": "Adorned with the antlers of the long-extinct great eolk, this armor set is said to contain the pagan spirit of the wild north woods. Though not officially sanctioned by the church, such superstitions are tolerated, provided the armor is sanctified in the blood of the church\u2019s enemies.",
+    "source": "Epic"
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_Armaen_1024.png",
+      "chest": "T_Armor_Cuirass_Armaen_1024.png",
+      "gauntlets": "T_Armor_Gauntlets_Armaen_1024.png",
+      "legs": "T_Armor_Legs_Armaen_1024.png"
+    },
+    "armor_set": "'''Haedrik Knight'''",
+    "description": "An ornate cuirass once belonging to a knight in service to House Haedrik from the western lands of Armaea.\n\nThe Haedriks fled the Armaen political theatre in pursuit of new beginnings and economic supremacy. Their attractive, yet functional suits of armor dazzled the aristocracy of Gildenarch, garnering them favor and the attention of the city's major players. Few suits, such as this, were crafted for Nephilim usage.",
+    "source": ""
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_Xbox_1024.png",
+      "chest": "T_Armor_Cuirass_Xbox_1024.png",
+      "gauntlets": "T_Armor_Guantlets_Xbox_1024.png",
+      "legs": "T_Armor_Legs_Xbox_1024.png"
+    },
+    "armor_set": "'''Hex Knight'''",
+    "description": "Forged from thrice-cursed steel by the fabled hexalalurgists of the Drakfeld Steppes, the wearing of this armor provides not just protection, but a portent of strange things to come.",
+    "source": "Xbox"
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_KeepersOath_1024.png",
+      "chest": "T_Armor_Cuirass_KeepersOath_1024.png",
+      "gauntlets": "T_Armor_Guantlets_KeepersOath_1024.png",
+      "legs": "T_Armor_Legs_KeepersOath_1024.png"
+    },
+    "armor_set": "'''Keeper's Oath'''",
+    "description": "A variant of Crimson Oath armor, bestowed upon Nephilim who take The Keeper's Oath.\n\nKnights of the Keeper's Oath are charged with the collection and safeguard of all knowledge in Velchoria, both divine and profane, by any means necessary. Whether it be gold or iron, Keepers find a way.",
+    "source": "Deluxe Edition"
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_LunarSentinel_1024.png",
+      "chest": "T_Armor_Cuirass_LunarSentinel_1024.png",
+      "gauntlets": "T_Armor_Gauntlets_LunarSentinel_1024.png",
+      "legs": "T_Armor_Legs_LunarSentinel_1024.png"
+    },
+    "armor_set": "'''Lunar Sentinel'''",
+    "description": "Cuirass of the Lunar Sentinel.\n\nNo symbol is more harrowing to the Lunitarian faith than that of the Lunar Sentinel, the once faithful knights in service to Lunarin before the establishment of the Church. Legend tells that Lunarin's loyal knights disagreed with the Church's teachings and refused to join the new budding faith.",
+    "source": ""
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_Mahkten_1024.png",
+      "chest": "T_Armor_Cuirass_Mahkten_1024.png",
+      "gauntlets": "T_Armor_Gauntlets_Mahkten_1024.png",
+      "legs": "T_Armor_Legs_Mahkten_1024.png"
+    },
+    "armor_set": "'''Mahkten'''",
+    "description": "A cuirass forged specifically to withstand the punishing blows of the Lord of Perdition. Alas, no armor exists that can hold up to the power of Mahkteah's colossal club mace, but wearing this, you'll look good trying.",
+    "source": "Mahkteah, The Lord of Perdition"
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_CrimsonOath_V4_1024.png",
+      "chest": "T_Armor_Cuirass_CrimsonOath_V4_1024.png",
+      "gauntlets": "T_Armor_Gauntlets_CrimsonOath_V4_1024.png",
+      "legs": "T_Armor_Legs_CrimosonOath_V4_1024.png"
+    },
+    "armor_set": "'''Midnight Oath'''",
+    "description": "A variant of Crimson Oath armor, bestowed upon Nephilim who take The Oath of Midnight.\n\nPaladins of the Oath of Midnight, sometimes called Black Hoods, wander the lands in search of demonic corruption. They travel by night, investigating leads of illegal occult activity that consorts with demonic or vampiric activities. Few mortals know of their existence, a testament to their guile and efficiency.",
+    "source": ""
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_CrimsonOath_V2_1024.png",
+      "chest": "T_Armor_Cuirass_CrimsonOath_V2_1024.png",
+      "gauntlets": "T_Armor_Gauntlets_CrimsonOath_V2_1024.png",
+      "legs": "T_Armor_Legs_CrimsonOath_V2_1024.png"
+    },
+    "armor_set": "'''Moonlight Oath'''",
+    "description": "A variant of Crimson Oath Armor, bestowed upon Nephilim who take The Oath of the Moonlight.\n\nPaladins belonging to the Oath of the Moonlight, known by the pejorative Spectres, are Nephilim who operate in foreign lands. They're the Church's agents in pagan and secular lands, often resented but tolerated, because few have the martial might to dispel them.",
+    "source": "Discord"
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_Ossified_1024.png",
+      "chest": "T_Armor_Cuirass_Ossified_1024.png",
+      "gauntlets": "T_Armor_Guantlets_Ossified_1024.png",
+      "legs": "T_Armor_Legs_Ossified_1024.png"
+    },
+    "armor_set": "'''Ossified Heart'''",
+    "description": "Harden your heart oh seeker of salvation for your foes are formidable and the Lord of Perdition burns even the strongest of will.",
+    "source": "Discord"
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_Pagan_1024.png",
+      "chest": "T_Armor_Cuirass_Pagan_1024.png",
+      "gauntlets": "T_Armor_Gauntlets_Pagan_1024.png",
+      "legs": "T_Armor_Legs_Pagan_1024.png"
+    },
+    "armor_set": "'''Pagan'''",
+    "description": "A stout cuirass made from the melted and reforged steel of false idols.\n\nA great many pagan gods were worshipped before the unifying force of the church. Many say these old gods were demons. It\u2019s a fine line between fighting a demon and fighting like one.",
+    "source": "E'frae, The Dry Rot King"
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_PhoenixPaladin_V2_1024.png",
+      "chest": "T_Armor_Cuirass_PhoenixPaladin_V2_1024.png",
+      "gauntlets": "T_Armor_Gauntlets_PhoenixPaladin_V2_1024.png",
+      "legs": "T_Armor_Legs_PhoenixPaladin_V2_1024.png"
+    },
+    "armor_set": "'''Pale Ascent'''",
+    "description": "A gorgeous white cuirass belonging to an infamous traitor.\n\nWhite Armor in reference to the fabled White Phoenix of Prosperity. An old fairy tale told to the children of Belwayne where a spectral Avian would herald an age of fortune to those under its guidance.",
+    "source": ""
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_RamArmor_1024.png",
+      "chest": "T_Armor_Cuirass_RamArmor_1024.png",
+      "gauntlets": "T_Armor_Gauntlets_RamArmor_1024.png",
+      "legs": "T_Armor_Legs_RamArmor_1024.png"
+    },
+    "armor_set": "'''Ram'''",
+    "description": "A symbol of strength, speed, and yes, single-minded stubbornness in the pursuit of a goal, this beautiful ram cuirass will carry you into battle. Best not to think about it too much.",
+    "source": "General Valahk-Nor"
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_Revenant_1024.png",
+      "chest": "T_Armor_Cuirass_Revenant_1024.png",
+      "gauntlets": "T_Armor_Gauntlets_Revenant_1024.png",
+      "legs": "T_Armor_Legs_Revenant_1024.png"
+    },
+    "armor_set": "'''Revenant'''",
+    "description": "Named in honor of a revenant spirit who stood in protection over the crypts of Gildeus long ago, this cuirass will protect you from the blades and bludgeons of this world.\n\nIn a time when even death isn't permanent, it's still best not to take any chances.",
+    "source": ""
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_PhoenixPaladin_V3_1024.png",
+      "chest": "T_Armor_Cuirass_PhoenixPaladin_V3_1024.png",
+      "gauntlets": "T_Armor_Gauntlets_PhoenixPaladin_V3_1024.png",
+      "legs": "T_Armor_Legs_PhoenixPaladin_V3_1024.png"
+    },
+    "armor_set": "'''Ruined Belwayne'''",
+    "description": "Tragically marred armor, once worn by a knight of Belwayne.\n\nA soldier may die, but the steel lives on. May it protect you more than it did the last wearer.",
+    "source": ""
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_SanctusZealot_1024.png",
+      "chest": "T_Armor_Cuirass_SanctusZealot_1024.png",
+      "gauntlets": "T_Armor_Gauntlets_SanctusZealot_1024.png",
+      "legs": "T_Armor_Legs_SanctusZealot_1024.png"
+    },
+    "armor_set": "'''Sanctus Zealot'''",
+    "description": "An intimidating cuirass forged for the Sanctus Zealot.\n\nLegend tells of the first interfaith conflict between the anceint Lunar Sentinels and the Lunitarians Sanctus Zealots. In the end the Church was victorious by the hands of berzerk warriors who saw their faith as law.",
+    "source": ""
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_PlayStation_1024.png",
+      "chest": "T_Armor_Cuirass_PlayStation_1024.png",
+      "gauntlets": "T_Armor_Guantlets_PlayStation_1024.png",
+      "legs": "T_Armor_Legs_PlayStation_1024.png"
+    },
+    "armor_set": "'''Sonai Magistrate'''",
+    "description": "As bright and colorful as the banners that hang above the high office of the Sonai magistrate, this armor set is a symbol of strength, discipline, and loyalty. Three things that will be sorely needed in days ahead.",
+    "source": "PS5"
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_SovereinSentry_1024.png",
+      "chest": "T_Armor_Cuirass_SovereinSentry_1024.png",
+      "gauntlets": "T_Armor_Gauntlets_SovereinSentry_1024.png",
+      "legs": "T_Armor_Legs_SovereinSentry_1024.png"
+    },
+    "armor_set": "'''Sovereign Sentry'''",
+    "description": "Cuirass belonging to the Sentries of Nachtendale's Sovereign.\n\nNachtendale has been the most successful and thriving city since the Rite of Desolation, in no small part to the Sovereign Sentries who've stood guard against the neighboring city states.",
+    "source": ""
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_Vampire_1024.png",
+      "chest": "T_Armor_Cuirass_Vampire_1024.png",
+      "gauntlets": "T_Armor_Gauntlets_Vampire_1024.png",
+      "legs": "T_Armor_Legs_Vampire_1024.png"
+    },
+    "armor_set": "'''Telvaught'''",
+    "description": "Ancient beyond counting, this armor's steel is as ageless as it's original wearer, a vampire who was never defeated, but who shed the armor like a molted skin to achieve new form. Or so the legend says.",
+    "source": "Felwyl, The Withered"
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_TelvaughtExcoriator_1024.png",
+      "chest": "T_Armor_Cuirass_TelvaughtExcoriator_1024.png",
+      "gauntlets": "T_Armor_Guantlets_TelvaughtExcoriator_1024.png",
+      "legs": "T_Armor_Legs_TelvaughtExcoriator_1024.png"
+    },
+    "armor_set": "'''Telvaught Excoriator'''",
+    "description": "Worn by the Excoriator's of the Telvaught Clan, this armor is unknown to the world as those beyond the clan who have seen it no longer remain.",
+    "source": ""
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_TelvaughtSage_1024.png",
+      "chest": "T_Armor_Cuirass_TelvaughtSage_1024.png",
+      "gauntlets": "T_Armor_Guantlets_TelvaughtSage_1024.png",
+      "legs": "T_Armor_Legs_TelvaughtSage_1024.png"
+    },
+    "armor_set": "'''Telvaught Sage'''",
+    "description": "The Sages of Clan Telvaught have had centuries to perfect their craft, weaving magic into their armor increasing their resilience and amplifying their power.",
+    "source": "Discord"
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_Steam_1024.png",
+      "chest": "T_Armor_Cuirass_Steam_1024.png",
+      "gauntlets": "T_Armor_Guantlets_Steam_1024.png",
+      "legs": "T_Armor_Legs_Steam_1024.png"
+    },
+    "armor_set": "'''Valiant'''",
+    "description": "Only the Valiant may wear this strange and prickly armor, for to wear it is to risk a view into the dark side of one\u2019s own nature. The same spikes that point outward also point in.",
+    "source": "Steam"
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_Verdigris_1024.png",
+      "chest": "T_Armor_Cuirass_Verdigris_1024.png",
+      "gauntlets": "T_Armor_Guantlets_Verdigris_1024.png",
+      "legs": "T_Armor_Legs_Verdigris_1024.png"
+    },
+    "armor_set": "'''Verdigris'''",
+    "description": "A symbol of strength, speed, and yes, single-minded stubbornness in the pursuit of a goal, this beautiful Verdigris Cuirass will carry you into battle. Best not to think about it too much.",
+    "source": "Discord"
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_PhoenixPaladin_V4_1024.png",
+      "chest": "T_Armor_Cuirass_PhoenixPaladin_V4_1024.png",
+      "gauntlets": "T_Armor_Gauntlets_PhoenixPaladin_V4_1024.png",
+      "legs": "T_Armor_Legs_PhoenixPaladin_V4_1024.png"
+    },
+    "armor_set": "'''Vermillion Knight'''",
+    "description": "A distinct set of red armor belonging to Sir Camden of House Alemendral.\n\nA suit of rmor stained red, in tribute to the Nephilim, who saved humanity long ago.\n\nUnlike other kingdoms in Armaea, Belwayne looked favorably upon Nephilim, protecting their sovereignty within their domain and accepting them into their ranks as soldiers.",
+    "source": ""
+  },
+  {
+    "pieces": {
+      "helmet": "T_Armor_Helm_Twitch_1024.png",
+      "chest": "T_Armor_Cuirass_Twitch_1024.png",
+      "gauntlets": "T_Armor_Guantlets_Twitch_1024.png",
+      "legs": "T_Armor_Legs_Twitch_1024.png"
+    },
+    "armor_set": "'''Watchman's Oath'''",
+    "description": "It\u2019s said that for a thousand years a knight wearing this armor stood vigil at the tower walls of Belwayne. Others say that it was not a single long-lived knight, but different knights who wore the same armor, long passed down. Now the tower is fallen, and the armor seeks a new wearer who will swear an oath to duty. Whether his life be short or long will depend on him.",
+    "source": "Twitch"
+  }
+]

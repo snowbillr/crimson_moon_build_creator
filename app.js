@@ -28,7 +28,12 @@ async function init() {
 
   state.weapons = weaponData.weapons ?? [];
   state.shields = weaponData.shields ?? [];
-  state.trinkets = trinkets.filter((trinket) => trinket.boon);
+  state.trinkets = trinkets
+    .filter((trinket) => trinket.boon)
+    .map((trinket) => ({
+      name: trinket.trinket ?? trinket.name,
+      boon: trinket.boon,
+    }));
 
   renderBoonOptions();
   renderWeaponArtOptions();
@@ -119,12 +124,23 @@ function renderResults() {
 
   const validTwoHand = twoHandWeapons.filter((weapon) => weapon.weapon_art === state.selectedWeaponArt);
 
+  const matchingOneHandWeapons = oneHandWeapons.filter(
+    (weapon) => weapon.weapon_art === state.selectedWeaponArt,
+  );
+  const nonMatchingOneHandWeapons = oneHandWeapons.filter(
+    (weapon) => weapon.weapon_art !== state.selectedWeaponArt,
+  );
+  const matchingShields = state.shields.filter((shield) => shield.weapon_art === state.selectedWeaponArt);
+
   const validOneHandPairs = [];
-  for (const weapon of oneHandWeapons) {
+  for (const weapon of matchingOneHandWeapons) {
     for (const shield of state.shields) {
-      if (weapon.weapon_art === state.selectedWeaponArt || shield.weapon_art === state.selectedWeaponArt) {
-        validOneHandPairs.push({ weapon, shield });
-      }
+      validOneHandPairs.push({ weapon, shield });
+    }
+  }
+  for (const weapon of nonMatchingOneHandWeapons) {
+    for (const shield of matchingShields) {
+      validOneHandPairs.push({ weapon, shield });
     }
   }
 
@@ -144,7 +160,7 @@ function renderResults() {
 
   trinketResultsEl.innerHTML = state.selectedBoon
     ? `<h3>Matching Trinket</h3>${renderList(
-        selectedTrinkets.map((item) => `${item.name ?? item.trinket} (${item.boon})`),
+        selectedTrinkets.map((item) => `${item.name} (${item.boon})`),
       )}`
     : `<h3>Trinket</h3><p class="muted">No boon selected. You may equip any one trinket.</p>`;
 
@@ -182,10 +198,18 @@ function parseWeaponsData(rawText) {
     }
     return parsed;
   } catch {
-    try {
-      return JSON.parse(`{"weapons":${rawText}}`);
-    } catch {
+    const marker = '],\n"shields":';
+    const markerIndex = rawText.indexOf(marker);
+    if (markerIndex === -1) {
       throw new Error("Unsupported weapons.json format.");
     }
+
+    const weaponsText = rawText.slice(0, markerIndex + 1).trim();
+    const shieldsText = rawText.slice(markerIndex + marker.length).trim();
+
+    return {
+      weapons: JSON.parse(weaponsText),
+      shields: JSON.parse(shieldsText),
+    };
   }
 }

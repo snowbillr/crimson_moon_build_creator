@@ -1,0 +1,380 @@
+[
+  {
+    "trinket": "Amulet of Angelic Strength",
+    "icon": "T_Amulet_DamageBuff_1024.png",
+    "boon": "Angelic Strength",
+    "description": "Grants the Angelic Strength boon"
+  },
+  {
+    "trinket": "Amulet of Cleansing Pestilence",
+    "icon": "T_Amulet_AOE_1024.png",
+    "boon": "Cleansing Pestilence",
+    "description": "Grants the Cleansing Pestilence boon"
+  },
+  {
+    "trinket": "Amulet of Crusader's Frost",
+    "icon": "T_Amulet_DamageBuff_1024.png",
+    "boon": "Crusader's Frost",
+    "description": "Grants the Crusader's Frost boon"
+  },
+  {
+    "trinket": "Amulet of Crusader's Might",
+    "icon": "T_Amulet_DamageBuff_1024.png",
+    "boon": "Crusader's Might",
+    "description": "Grants the Crusader's Might boon"
+  },
+  {
+    "trinket": "Amulet of Divine Mandate",
+    "icon": "T_Amulet_Marked_1024.png",
+    "boon": "Divine Mandate",
+    "description": "Grants the Divine Mandate boon"
+  },
+  {
+    "trinket": "Amulet of Purging Fire",
+    "icon": "T_Amulet_DamageBuff_1024.png",
+    "boon": "Purging Fire",
+    "description": "Grants the Purging Fire boon"
+  },
+  {
+    "trinket": "Amulet of Reaper's Respite",
+    "icon": "T_Amulet_HealthRegen_1024.png",
+    "boon": "Reaper's Respite",
+    "description": "Grants the Reaper's Respite boon"
+  },
+  {
+    "trinket": "Amulet of Red Bloom",
+    "icon": "T_Ring_Poison_1024.png",
+    "boon": "Seal of Blight",
+    "description": "Grants the Seal of Blight boon. Members of the Reborn resent the Lunitarian Church and their Divine for undoing the old world and only through the Red Bloom can they unify all bodies into one again."
+  },
+  {
+    "trinket": "Amulet of the Divine",
+    "icon": "T_Ring_StatIncrease_1024.png",
+    "boon": "Radiant Fortitude",
+    "description": "Grants the Radiant Fortitude boon. An amulet forged to recognize the Divine\u2019s triumph over the Demiurge as the start of a new era."
+  },
+  {
+    "trinket": "Amulet of the Guardian Angel",
+    "icon": "T_Amulet_AOE_1024.png",
+    "boon": "Guardian Angel",
+    "description": "Grants the Guardian Angel boon"
+  },
+  {
+    "trinket": "Amulet of the Vow of Retribution",
+    "icon": "T_Amulet_DamageBuff_1024.png",
+    "boon": "Vow of Retribution",
+    "description": "Grants the Vow of Retribution boon"
+  },
+  {
+    "trinket": "Amulet of Zeal",
+    "icon": "T_Amulet_DamageBuff_1024.png",
+    "boon": "Zeal of the Faithful",
+    "description": "Grants the Zeal of the Faithful boon"
+  },
+  {
+    "trinket": "Avowed and Accursed",
+    "icon": "T_Ring_StatIncrease_1024.png",
+    "boon": "Enduring Vow",
+    "description": "Grants the Enduring Vow boon. In breaking his vow of obedience, the fallen angel Prometra has lost his place in the Angelic Choir. It\u2019s said that to find a feather of one of his wings is to be granted special powers."
+  },
+  {
+    "trinket": "Band of Verdicts",
+    "icon": "T_Ring_Marked_1024.png",
+    "boon": "Judgement's Mark",
+    "description": "Grants the Judgement's Mark boon."
+  },
+  {
+    "trinket": "Bonfire of the Soul",
+    "icon": "T_Amulet_EffectDuration_1024.png",
+    "boon": "Unyielding Pyre",
+    "description": "Grants the Unyielding Pyre boon. Not all who burn are consumed."
+  },
+  {
+    "trinket": "Bound for Glory",
+    "icon": "T_Ring_DamageBuff_1024.png",
+    "boon": "Soulbound Might",
+    "description": "Grants the Soulbound Might boon. It is said that even mighty must fall. But it need not be this day."
+  },
+  {
+    "trinket": "Castlefall",
+    "icon": "T_Amulet_DefenseBuff_1024.png",
+    "boon": "Last Bastion",
+    "description": "Grants the Last Bastion boon. Once used as currency when gold was scarce, bricks from the ruins of Treveyan\u2019s Keep have been scattered to the four winds."
+  },
+  {
+    "trinket": "Crimson Ring",
+    "icon": "T_Ring_DamageBuff_1024.png",
+    "boon": "Oathbound Arts",
+    "description": "Grants the Oathbound Arts boon. Born of forbidden blood, The Knights of the Crimson Moon swear an oath to atone for the sins of their father in the blood of the Church\u2019s enemies."
+  },
+  {
+    "trinket": "Crown of Cinders",
+    "icon": "T_Amulet_AOE_1024.png",
+    "boon": "Crown of Cinders",
+    "description": "Grants the Crown of Cinders boon."
+  },
+  {
+    "trinket": "Cruelest Cut",
+    "icon": "T_Amulet_Healing_1024.png",
+    "boon": "Executioner\u2019s Reward",
+    "description": "Grants the Executioner\u2019s Reward boon. According to Church documents, Mox Piet was the most prolific executioner in the Velchorian Isles, and during his long life performed more than 700 confirmed executions for three generations of royalty. At the age of ninety-three, his final execution was himself. Aferward, his sword was melted down and drabs of dull steel were sold as relics."
+  },
+  {
+    "trinket": "DivineReservoir",
+    "icon": "T_Ring_StatIncrease_1024.png",
+    "boon": "Divine Reservoir",
+    "description": "Grants the Divine Reservoir boon. Sister Fae Lake is said to be bottomless. Water drawn from its murky depths on the solstice is evaporated in the sun by monks, leaving a residue behind that contains mystical properties."
+  },
+  {
+    "trinket": "Eye of God",
+    "icon": "T_Ring_Marked_1024.png",
+    "boon": "Divine Focus",
+    "description": "Grants the Divine Focus boon. A blind priest from the Drakefell Woods fasted and prayed that his sight be returned. It never was. Instead, he starved to death. The necklace he wore about his neck was kept and later found to have taken on strange properties. Though the priest never regained his sight, none may hide their wickedness from the eyes of the Lord."
+  },
+  {
+    "trinket": "Fallen Angel's Ring",
+    "icon": "T_Amulet_Amp_1024.png",
+    "boon": "Aftershock Technique",
+    "description": "Grants the Aftershock Technique boon. When Prometra fell, a giant crater formed. The Infernal Legion developed this technique in remembrance of the first fallen."
+  },
+  {
+    "trinket": "Flaming Aegis",
+    "icon": "T_Ring_Burning_1024.png",
+    "boon": "Holy Fire Aegis",
+    "description": "Grants the Holy Fire Aegis boon. Some fires, once lit, cannot be put out."
+  },
+  {
+    "trinket": "Frost Burn",
+    "icon": "T_Ring_Freeze_1024.png",
+    "boon": "Frostbrand Seal",
+    "description": "Grants the Frostbrand Seal boon. So cold it burns the flesh of the unworthy, leaving a permanent brand upon the skin. Only a Nephilim can touch it and be unmarked."
+  },
+  {
+    "trinket": "Frostbitten Amulet",
+    "icon": "T_Ring_Freeze_1024.png",
+    "boon": "Aegis of Frost",
+    "description": "Grants the Aegis of Frost boon. The heavily armored Aegis wields such strength that merely blocking an attack can damage foes."
+  },
+  {
+    "trinket": "Gajov's Amulet",
+    "icon": "T_Amulet_AOE_1024.png",
+    "boon": "Cleansing Conflagration",
+    "description": "Grants the Cleansing Conflagration boon. A pariah turned member of the pack, Gajov dispels the coldness within by the fires of his forge."
+  },
+  {
+    "trinket": "Gem of Momentum",
+    "icon": "T_Ring_Tempo_1024.png",
+    "boon": "Momentum Charge",
+    "description": "Grants the Momentum Charge boon"
+  },
+  {
+    "trinket": "Gem of the Font",
+    "icon": "T_Amulet_Mana_1024.png",
+    "boon": "Font of Conviction",
+    "description": "Grants the Font of Conviction boon. Belief is half the battle."
+  },
+  {
+    "trinket": "Inquisitor's Ring",
+    "icon": "T_Ring_Marked_1024.png",
+    "boon": "Brand of Judgement",
+    "description": "Grants the Brand of Judgement boon. When whispers of a heretical cult reached the Lunitarian Church, they responded by sending the heavy hand of the Grand Inquisitor."
+  },
+  {
+    "trinket": "Ironbreaker's Signet",
+    "icon": "T_Ring_Sunder_1024.png",
+    "boon": "Sundering Strikes",
+    "description": "Grants the Sundering Strikes boon"
+  },
+  {
+    "trinket": "Last Rites",
+    "icon": "T_Ring_Stamina_1024.png",
+    "boon": "Defiant Vigor",
+    "description": "Grants the Defiant Vigor boon. The vampires of Clan Moore are said to be almost impossible to kill. Legends tell that a single tincture of their blood may imbue a relic with super-restorative powers, though this is unconfirmed in the eyes of the Church."
+  },
+  {
+    "trinket": "Liquid Quick",
+    "icon": "T_Ring_Tempo_1024.png",
+    "boon": "Consecrated Draught",
+    "description": "Grants the Consecrated Draught boon. Norunddir is home to the strongest drink, brewed to stave off the frost of ever-winter. The silver concoction burns the throat and speeds the heart."
+  },
+  {
+    "trinket": "Medallion of Last Light",
+    "icon": "T_Amulet_HealthRegen_1024.png",
+    "boon": "Last Light",
+    "description": "Grants the Last Light boon. A vampire has a complex relationship with the sun. In certain ancient tomes there are stories of special totems which might ease the daylight path of those who feast on blood. When carried by beings of the light, these totems grant other advantages."
+  },
+  {
+    "trinket": "Pendant of the Plague",
+    "icon": "T_Amulet_AOE_1024.png",
+    "boon": "On a Pale Horse",
+    "description": "Grants the On a Pale Horse boon."
+  },
+  {
+    "trinket": "Rageborn",
+    "icon": "T_Amulet_EffectDuration_1024.png",
+    "boon": "Enduring Rage",
+    "description": "Grants the Enduring Rage boon. Legends speak of tiny, hidden totems that can be secreted in the armor of doomed warriors which prevents them from feeling fear in the face of a lost cause. So powerful is this magic said to be that even a warrior with mortal wounds cannot be convinced to die."
+  },
+  {
+    "trinket": "Red Scale",
+    "icon": "T_Ring_Burning_1024.png",
+    "boon": "Scorching Charge",
+    "description": "Grants the Scorching Charge boon"
+  },
+  {
+    "trinket": "Ring of Edicts",
+    "icon": "T_Ring_Marked_1024.png",
+    "boon": "Edict of Condemnation",
+    "description": "Grants the Edict of Condemnation boon"
+  },
+  {
+    "trinket": "Ring of Frozen Vow",
+    "icon": "T_Ring_Freeze_1024.png",
+    "boon": "Frozen Vow",
+    "description": "Grants the Frozen Vow boon"
+  },
+  {
+    "trinket": "Ring of Sanctified Rhythm",
+    "icon": "T_Ring_Tempo_1024.png",
+    "boon": "Sanctified Rhythm",
+    "description": "Grants the Sanctified Rhythm boon"
+  },
+  {
+    "trinket": "Ring of Sanguine Strike",
+    "icon": "T_Ring_Hemorrhage_1024.png",
+    "boon": "Sanguine Strike",
+    "description": "Grants the Sanguine Strike boon"
+  },
+  {
+    "trinket": "Ring of the Judgment of Winter",
+    "icon": "T_Ring_Freeze_1024.png",
+    "boon": "Judgment of Winter",
+    "description": "Grants the Judgment of Winter boon"
+  },
+  {
+    "trinket": "Ring of the Many",
+    "icon": "T_Ring_Knockback_1024.png",
+    "boon": "Shield of Many",
+    "description": "Grants the Shield of Many boon"
+  },
+  {
+    "trinket": "Ring of the Scourge",
+    "icon": "T_Ring_Sunder_1024.png",
+    "boon": "Scourge of the Unfaithful",
+    "description": "Grants the Scourge of the Unfaithful boon"
+  },
+  {
+    "trinket": "Ring of Toxic Strike",
+    "icon": "T_Ring_Poison_1024.png",
+    "boon": "Toxic Strike",
+    "description": "Grants the Toxic Strike boon"
+  },
+  {
+    "trinket": "Sacred Speed",
+    "icon": "T_Ring_Tempo_1024.png",
+    "boon": "Blessed Momentum",
+    "description": "Grants the Blessed Momentum boon. Stasis is death. Movement is life."
+  },
+  {
+    "trinket": "Sanguine Signet",
+    "icon": "T_Ring_Hemorrhage_1024.png",
+    "boon": "Sanguine Slice",
+    "description": "Grants the Sanguine Slice boon"
+  },
+  {
+    "trinket": "Singed Ring",
+    "icon": "T_Ring_Burning_1024.png",
+    "boon": "Resounding Flames",
+    "description": "Grants the Resounding Flames boon. A hardened ring that passes fire to all it touches. Passed down by an ancient cleric who claimed to travel through the gates of Infernus and return unharmed."
+  },
+  {
+    "trinket": "Snow-laden Amulet",
+    "icon": "T_Amulet_Freeze_1024.png",
+    "boon": "Absolution in Ice",
+    "description": "Grants the Absolution in Ice boon. A final gift from the vanquished Dragon-God, a primordial ice to cleanse the soul."
+  },
+  {
+    "trinket": "Teardrop of Mercy",
+    "icon": "T_Amulet_Consumable_1024.png",
+    "boon": "Divine Reprieve",
+    "description": "Grants the Divine Reprieve boon"
+  },
+  {
+    "trinket": "The Amulet of Profane Ritual",
+    "icon": "T_Amulet_Burning_1024.png",
+    "boon": "Seal of Flame",
+    "description": "Grants the Seal of Flame boon. The Lost Legion of Infernus believe that only by combining the eight fires of their region, can they burn the world anew."
+  },
+  {
+    "trinket": "The Bijoux of Increase",
+    "icon": "T_Amulet_Amp_1024.png",
+    "boon": null,
+    "description": "Whether by grace or by guile, it is not clear, but with this bauble, you'll find that all weapons turned against the enemies of the Church shall know increase."
+  },
+  {
+    "trinket": "The Cup of Grace",
+    "icon": "T_Amulet_AngelicGrace_1024.png",
+    "boon": "Divine Endurance",
+    "description": "Grants the Divine Endurance boon. As the Lord Taketh, so does He give. This trinket was found in the hold of a ship wrecked upon the beaches of Greighton Bay. According to the Church documents, it provides grace to the cup-bearer in direct proportion to the suffering endured."
+  },
+  {
+    "trinket": "The Fury Stone",
+    "icon": "T_Ring_DefenseBuff_1024.png",
+    "boon": "Hardened Fury",
+    "description": "Grants the Hardened Fury boon. Around the doomed churches of Quorum were placed special guard stones. After most of the churches burned, these failed stones retained the heat of the fire, and to this day are passed around in remembrance of that tragedy."
+  },
+  {
+    "trinket": "The Martyr\u2019s Medal",
+    "icon": "T_Ring_Mana_1024.png",
+    "boon": "Martyr's Gift",
+    "description": "Grants the Martyr's Gift boon. A priest named Olan Blooded died by pagan hands during the second siege of Acktin. So brave was he that he was given a martyr\u2019s burial, and a medallion to wear upon his chest. Two centuries later, the grave was looted, and the medallion stolen. Where it is now no one knows."
+  },
+  {
+    "trinket": "The Relict of Recovery",
+    "icon": "T_Amulet_AngelicGrace_1024.png",
+    "boon": "Font of Light",
+    "description": "Grants the Font of Light boon. Long have there been legends of ancient relicts, used by the Lunitarian Church to channel angelic grace to those who need it most. The Relict of Recovery is one such, and its bearer is suffused with the healing Light of the holy Divine."
+  },
+  {
+    "trinket": "Thurible of Ashes",
+    "icon": "T_Ring_Knockdown_1024.png",
+    "boon": "Ashen Verdict",
+    "description": "Grants the Ashen Verdict boon. By this instrument, the fires of the wicked shall be turned against them. None may stand against the power of the divine."
+  },
+  {
+    "trinket": "Torc of Embers",
+    "icon": "T_Ring_Burning_1024.png",
+    "boon": "Trial by Flame",
+    "description": "Grants the Trial by Flame boon. Long ago, in the blasted lands of Kah\u2019s Spine, the pagans found a strange metal in the base of a crater. For a thousand years, this nugget was passed down, hammered into many forms. Always, it seemed to bring sickness and death to those closest to it. But finally, when the metal was stamped with the sigils of a great sorcerer, its power was harnessed."
+  },
+  {
+    "trinket": "Torc of Suffering",
+    "icon": "T_Amulet_DamageBuff_1024.png",
+    "boon": "Trial of Suffering",
+    "description": "Grants the Trial of Suffering boon"
+  },
+  {
+    "trinket": "Torc of the Fallen",
+    "icon": "T_Amulet_Tempo_1024.png",
+    "boon": "Trial of the Fallen",
+    "description": "Grants the Trial of the Fallen boon"
+  },
+  {
+    "trinket": "Trophy of the Hunt",
+    "icon": "T_Ring_Marked_1024.png",
+    "boon": "Hunter's Strike",
+    "description": "Grants the Hunter's Strike boon. It is a rare thing to kill a dragon. Even small shards of dragon horn are highly valuable and sought after by relic hunters."
+  },
+  {
+    "trinket": "Vampiric Heirloom",
+    "icon": "T_Ring_Consumable_1024.png",
+    "boon": "Chalice of Conquest",
+    "description": "Grants the Chalice of Conquest boon. The first vampires took eight sips from the Dark Lord's Chalice, whereupon their still hearts raced with a stolen vigor, newly sustained by the vitality of others."
+  },
+  {
+    "trinket": "Vim and Vigor",
+    "icon": "T_Ring_Stamina_1024.png",
+    "boon": "Vigorous Strikes",
+    "description": "Grants the Vigorous Strikes boon"
+  }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "icon": "T_UI_ICN_Boons_AbsolutioninIce.png",
+    "boon": "Absolution in Ice",
+    "effect": "Freezing marked enemies deals a large amount of cold damage to them."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_AegisofFrost.png",
+    "boon": "Aegis of Frost",
+    "effect": "When you Block an enemy attack, they take 350 Frost."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_AftershockTechnique.png",
+    "boon": "Aftershock Technique",
+    "effect": "Weapon Art attacks that create ground damage zones fire twice."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_AngelicStrength.png",
+    "boon": "Angelic Strength",
+    "effect": "While Angel Ascension is active, your Weapon Attacks gain +20% Bonus Attack Power."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_AscendantAuras.png",
+    "boon": "Ascendant Auras",
+    "effect": "Weapon Art Auras are doubled in size."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_AshenVerdict.png",
+    "boon": "Ashen Verdict",
+    "effect": "When you hit a Burning enemy with a Heavy Attack they have a 50% chance to be Knocked Down."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_BlessedMomentum.png",
+    "boon": "Blessed Momentum",
+    "effect": "When you hit an enemy with a Light Attack while Enraged, you gain Rage."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_BrandofJudgment.png",
+    "boon": "Brand of Judgment",
+    "effect": "When you hit an enemy with a Heavy Attack, they have a 75% chance to become Marked."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_Brewmaster.png",
+    "boon": "Brewmaster",
+    "effect": "Gain 1 additional Max Potion."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ChaliceofConquest.png",
+    "boon": "Chalice of Conquest",
+    "effect": "When you have 0 Health Flasks, you will restore a Health Flask after hitting enemies 8 times."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_CleansingConflagration.png",
+    "boon": "Cleansing Conflagration",
+    "effect": "When you apply Burning to an enemy, enemies within 5 meters of them suffer Burning."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_CleansingPestilence.png",
+    "boon": "Cleansing Pestilence",
+    "effect": "Heavy attack hits have a 30% chance to apply poison. Poison attacks deal +35 Poison."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ConsecratedDraught.png",
+    "boon": "Consecrated Draught",
+    "effect": "Consuming a Flask grants Rage (3 stacks)."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_CrimsonSmite.png",
+    "boon": "Crimson Smite",
+    "effect": "Charged Heavy Attack hits apply 750 Bleed."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_CrownofCinders.png",
+    "boon": "Crown of Cinders",
+    "effect": "You do not take Damage from Burning effects."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_CrusadersFrost.png",
+    "boon": "Crusader\u2019s Frost",
+    "effect": "Your Cold Effects gain +10 power."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_CrusadersMight.png",
+    "boon": "Crusader's Might",
+    "effect": "Attacks deal +20 Physical Damage."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_CrushingRebuke.png",
+    "boon": "Crushing Rebuke",
+    "effect": "When you Parry an enemy, they take (150 Physical Damage)."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_DefiantVigor.png",
+    "boon": "Defiant Vigor",
+    "effect": "When an enemy hits you with an Unblocked Melee Attack, you recover 20 Stamina."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_DivineEndurance.png",
+    "boon": "Divine Endurance",
+    "effect": "While your health is at or below 40%, you gain a 100% Bonus to Angelic Grace Recovery."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_DivineFocus.png",
+    "boon": "Divine Focus",
+    "effect": "When you hit a Staggered enemy, they become Marked."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_DivineMandate.png",
+    "boon": "Divine Mandate",
+    "effect": "When you Enter or Exit Angel Mode, all enemies within 7 meters of you are Marked."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_DivineReprieve.png",
+    "boon": "Divine Reprieve",
+    "effect": "If you kill 3 or more enemies while in Angel Ascension, you restore a Health Flask when you exit"
+  },
+  {
+    "icon": "T_UI_ICN_Boons_DivineReservoir.png",
+    "boon": "Divine Reservoir",
+    "effect": "+50 Max Mana."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_EdictofCondemnation.png",
+    "boon": "Edict of Condemnation",
+    "effect": "Executing an enemy Marks all enemies within 7 meters"
+  },
+  {
+    "icon": "T_UI_ICN_Boons_EnduringRage.png",
+    "boon": "Enduring Rage",
+    "effect": "+25% Enraged Duration."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_EnduringVow.png",
+    "boon": "Enduring Vow",
+    "effect": "+15 Max Stamina."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ExecutionersReward.png",
+    "boon": "Executioner\u2019s Reward",
+    "effect": "Killing an enemy with a Weapon Art recovers 30 Health."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ExecutorsStrength.png",
+    "boon": "Executor's Strength",
+    "effect": "Executing an enemy grants +5 Max Health."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_FlowofCombat.png",
+    "boon": "Flow of Combat",
+    "effect": "Weapon Art damage grants Rage."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_FontofConviction.png",
+    "boon": "Font of Conviction",
+    "effect": "Charged Heavy Attack hits against Marked enemies recover 15 Mana."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_FontofLight.png",
+    "boon": "Font of Light",
+    "effect": "+15% Angelic Grace Recovery."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_Frenzy.png",
+    "boon": "Frenzy",
+    "effect": "On killing an Elite enemy, you gain Rage."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_FrostboundCharge.png",
+    "boon": "Frostbound Charge",
+    "effect": "Sprint Attack hits apply 1000 Frost"
+  },
+  {
+    "icon": "T_UI_ICN_Boons_FrostbrandSeal.png",
+    "boon": "Frostbrand Seal",
+    "effect": "Parrying an enemy applies 1000 Frost."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_FrozenVow.png",
+    "boon": "Frozen Vow",
+    "effect": "Light Attack hits apply 200 Frost."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_Garrote.png",
+    "boon": "Garrote",
+    "effect": "Backstab inflicts Bleeding."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_GracefulStrike.png",
+    "boon": "Graceful Strike",
+    "effect": "When you hit a Marked enemy with a Light Attack, you recover 1 Angelic Grace."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_GuardianAngel.png",
+    "boon": "Guardian Angel",
+    "effect": "Entering Angel Ascension creates a zone where players inside gain 30% Resistance to all damage."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_HardenedFury.png",
+    "boon": "Hardened Fury",
+    "effect": "While Enraged you gain 20% bonus to all Resistances."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_HuntersStrike.png",
+    "boon": "Hunter\u2019s Strike",
+    "effect": "When you hit an enemy with a Light Attack, they have a 25% chance to become Marked."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SunfireAegis.png",
+    "boon": "Holy Fire Aegis",
+    "effect": "When you block an enemy attack, they have a 50% chance to suffer Burning."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_InvigoratingBlood.png",
+    "boon": "Invigorating Blood",
+    "effect": "Executing an enemy grants +5 Max Stamina."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_JudgementsMark.png",
+    "boon": "Judgement\u2019s Mark",
+    "effect": "When you Block an enemy attack, there is a 15% chance to apply Marked to the enemy."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_JudgmentofWinter.png",
+    "boon": "Judgment of Winter",
+    "effect": "When you hit an enemy with a Heavy Attack, they suffer 350 Frost."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_LastBastion.png",
+    "boon": "Last Bastion",
+    "effect": "While your Health is below 40%, you gain a +40 Bonus to Physical Defenses."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_LastLight.png",
+    "boon": "Last Light",
+    "effect": "While your Health is at or below 40%, you recover 1% of your Health each second."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ManaDrain.png",
+    "boon": "Mana Drain",
+    "effect": "Executing an enemy grants +5 Max Mana."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_MartyrsGift.png",
+    "boon": "Martyr\u2019s Gift",
+    "effect": "When you take Damage, you recover Mana equal to 25% of the amount taken."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_MomentumCharge.png",
+    "boon": "Momentum Charge",
+    "effect": "When you hit an enemy with a Sprint Attack, you gain Rage (2 stacks)."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_OathboundArts.png",
+    "boon": "Oathbound Arts",
+    "effect": "+20% Elemental Damage."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_OathswornReturn.png",
+    "boon": "Oathsworn Return",
+    "effect": "Recover 1 Life in your Life Pool upon accepting."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_OnaPaleHorse.png",
+    "boon": "On a Pale Horse",
+    "effect": "When you Enter Angel Ascension, Poison all enemies within 5 meters, Weapon Attacks in Angel Ascension apply 250 Poison."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_PatientZero.png",
+    "boon": "Patient Zero",
+    "effect": "Being Poisoned no longer Damages you."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_PurgingFire.png",
+    "boon": "Purging Fire",
+    "effect": "Your Fire Effects gain +35 power."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_Pyromancer.png",
+    "boon": "Pyromancer",
+    "effect": "When you hit a target with a Weapon Art, they suffer Burning."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_RadiantFortitude.png",
+    "boon": "Radiant Fortitude",
+    "effect": "+50 Max Health."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ReapersRespite.png",
+    "boon": "Reaper\u2019s Respite",
+    "effect": "When you kill an enemy, you recover 15 Health."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_RelentlessMomentum.png",
+    "boon": "Relentless Momentum",
+    "effect": "+20% Damage from Sprint Attacks."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ResoundingCharge.png",
+    "boon": "Resounding Charge",
+    "effect": "When you hit an enemy with a Sprint Attack, you gain +25 stamina."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ResoundingFlames.png",
+    "boon": "Resounding Flames",
+    "effect": "When you parry, enemies within 7 meters suffer Burning."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_RisingTempo.png",
+    "boon": "Rising Tempo",
+    "effect": "After 3 hits on a single target within 3 seconds, you gain Rage."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SanctifiedRhythm.png",
+    "boon": "Sanctified Rhythm",
+    "effect": "When you hit an enemy with a Light Attack, you have a 25% chance to gain Rage."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_Sanguimancer.png",
+    "boon": "Sanguimancer",
+    "effect": "Light Attack hits against a Bleeding enemy recover 15 Mana."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SanguineCharge.png",
+    "boon": "Sanguine Charge",
+    "effect": "When you hit an enemy with a Sprint Attack, they take 1000 Bleed."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SanguineSlam.png",
+    "boon": "Sanguine Slam",
+    "effect": "Heavy Attack hits apply 500 Bleed."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SanguineSlice.png",
+    "boon": "Sanguine Slice",
+    "effect": "Attacks apply 100 Bleed."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SanguineStrike.png",
+    "boon": "Sanguine Strike",
+    "effect": "Light Attack hits apply 250 Bleed."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ScorchingCharge.png",
+    "boon": "Scorching Charge",
+    "effect": "Sprint Attack hits apply Burning."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ScorchingTechnique.png",
+    "boon": "Scorching Technique",
+    "effect": "When you damage an enemy with a Weapon Art, they have a 75% chance to suffer Burning."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ScorchingVerdict.png",
+    "boon": "Scorching Verdict",
+    "effect": "When you hit an enemy with a Heavy Attack, they have a 75% chance to suffer Burning."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ScourgeoftheUnfaithful.png",
+    "boon": "Scourge of the Unfaithful",
+    "effect": "When you kill an enemy, all enemies within 7 meters of you suffer Sunderance."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SealofBlight.png",
+    "boon": "Seal of Blight",
+    "effect": "When you Parry an enemy, they become Poisoned."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SealofFlame.png",
+    "boon": "Seal of Flame",
+    "effect": "When you Parry an enemy, they suffer Burning (2 Stacks)."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SecondWind.png",
+    "boon": "Second Wind",
+    "effect": "While your health is at or below 40%, you gain 100% Bonus to Stamina Recovery."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ShieldofMany.png",
+    "boon": "Shield of Many",
+    "effect": "When you parry an enemy attack, all enemies within 7 meters of you are pushed back. (Cooldown: 10 seconds)"
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SoulboundMight.png",
+    "boon": "Soulbound Might",
+    "effect": "+5% Physical Damage per 1000 Souls held (max +50%)."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SoulboundSorcery.png",
+    "boon": "Soulbound Sorcery",
+    "effect": "+5% Elemental Damage per 1000 Souls held (max +50%)."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_StrongBrew.png",
+    "boon": "Strong Brew",
+    "effect": "All Health and Mana Flask restoration effects are doubled on the player."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_SunderingStrikes.png",
+    "boon": "Sundering Strikes",
+    "effect": "Light Attack hits have a 50% chance to apply Sunderance."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_TemplarRevive.png",
+    "boon": "Templar Revive",
+    "effect": "While Reviving an ally, you gain +50% Damage Resistance and +50% Poise Damage Resistance."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ToxicStrike.png",
+    "boon": "Toxic Strike",
+    "effect": "Light Attack hits apply 250 Poison."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_TrialByFlame.png",
+    "boon": "Trial By Flame",
+    "effect": "When you hit an enemy with an Attack, they have a 25% chance to suffer Burning."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_TrialofSuffering.png",
+    "boon": "Trial of Suffering",
+    "effect": "While suffering from (Burn, Frost, Poison, or Bleed), you gain +25% Attack Bonus to all Attacks."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_TrialoftheFallen.png",
+    "boon": "Trial of the Fallen",
+    "effect": "When you kill an enemy, you gain Rage."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_UnyieldingPyre.png",
+    "boon": "Unyielding Pyre",
+    "effect": "+25% Burning Duration."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_VigorousStrikes.png",
+    "boon": "Vigorous Strikes",
+    "effect": "When you hit an enemy with a Heavy Attack, you recover 10 Stamina."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_Vivisection.png",
+    "boon": "Vivisection",
+    "effect": "+30% Riposte Damage"
+  },
+  {
+    "icon": "T_UI_ICN_Boons_VowofRetribution.png",
+    "boon": "Vow of Retribution",
+    "effect": "Bonus Damage from Marked increased by 25%."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_WrathfulSmite.png",
+    "boon": "Wrathful Smite",
+    "effect": "When you hit an enemy with a fully Charged Heavy Attack, you recover 3 Angelic Grace."
+  },
+  {
+    "icon": "T_UI_ICN_Boons_ZealoftheFaithful.png",
+    "boon": "Zeal of the Faithful",
+    "effect": "You and allies within 10 meters of you deal (+10% Damage vs Burning enemies)."
+  }
+]

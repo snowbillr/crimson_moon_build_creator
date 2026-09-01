@@ -1,0 +1,42 @@
+[
+  {
+    "status_effect": "Bleed",
+    "icon": "ICN_Bleed@2x.png",
+    "description": "Target takes damage over time while bleeding."
+  },
+  {
+    "status_effect": "Burn",
+    "icon": "ICN_Burn@2x.png",
+    "description": "Target is set on fire, taking damage over time based on fire stacks. Dodge roll to deactivate."
+  },
+  {
+    "status_effect": "Frost",
+    "icon": "ICN_Frost@2x.png",
+    "description": "Target gains frost stacks that slow and damage them."
+  },
+  {
+    "status_effect": "Frozen",
+    "icon": "ICN_Frozen@2x.png",
+    "description": "After Frost stacks accumulate the target is frozen, stopping their movement and action."
+  },
+  {
+    "status_effect": "Marked",
+    "icon": "ICN_Mark@2x.png",
+    "description": "Target is Marked by evil and takes higher critical damage from hits."
+  },
+  {
+    "status_effect": "Poison",
+    "icon": "ICN_Poison@2x.png",
+    "description": "Target is poisoned and takes damage over time once enough poison stacks are added."
+  },
+  {
+    "status_effect": "Rage",
+    "icon": "ICN_Rage@2x.png",
+    "description": "Target gains increased damage amplified by the number of stacks."
+  },
+  {
+    "status_effect": "Sunderance",
+    "icon": "ICN_Sunderance@2x.png",
+    "description": "Target has lowered resistance to all status effects and damage."
+  }
+]

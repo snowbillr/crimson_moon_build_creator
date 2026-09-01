@@ -199,7 +199,7 @@ function parseWeaponsData(rawText) {
     return parsed;
   } catch {
     const marker = '],\n"shields":';
-    const markerIndex = rawText.indexOf(marker);
+    const markerIndex = rawText.lastIndexOf(marker);
     if (markerIndex === -1) {
       throw new Error("Unsupported weapons.json format.");
     }

@@ -1,0 +1,142 @@
+[
+  {
+    "weapon_art": "Angelic Bulwark",
+    "icon": "T_UI_ICN_WeaponArt_AngelicBulwark.png",
+    "description": "Create a zone of defense on the ground for you and your allies."
+  },
+  {
+    "weapon_art": "Aura of the Burning Heart",
+    "icon": "T_UI_ICN_WeaponArt_AuraoftheBurningHeart.png",
+    "description": "Creates an Aura of Fire around you."
+  },
+  {
+    "weapon_art": "Avenging Pestilence",
+    "icon": "T_ICN_WA_EmptySlot.png",
+    "description": "Creates an Aura of Poison around you."
+  },
+  {
+    "weapon_art": "Bleed Projectiles",
+    "icon": "T_UI_ICN_WeaponArt_HemorhageProjectiles.png",
+    "description": "Send a homing projectile that applies Bleed."
+  },
+  {
+    "weapon_art": "Cardinal's Staff",
+    "icon": "T_UI_ICN_WeaponArt_CardinalsStaff.png",
+    "description": "Fires projectiles in all directions dealing Magic damage and knocking away enemies."
+  },
+  {
+    "weapon_art": "Earthen Strike",
+    "icon": "T_UI_ICN_WeaponArt_EarthenStrike.png",
+    "description": "Summon a stalagmite wave from the earth to deal Crushing damage to enemies in its path."
+  },
+  {
+    "weapon_art": "Egregore Explosion",
+    "icon": "T_UI_ICN_WeaponArt_EregoreExplosion.png",
+    "description": "A circle of egregore hellgrowth erupts from the ground dealing damage to all enemies within."
+  },
+  {
+    "weapon_art": "Empower",
+    "icon": "T_UI_ICN_WeaponArt_Empower.png",
+    "description": "Increases your Defenses and Damage of all types."
+  },
+  {
+    "weapon_art": "Fire Burst",
+    "icon": "T_UI_ICN_WeaponArt_FireBurst.png",
+    "description": "Throw a burst of flames at your enemies while applying a stack of Burning."
+  },
+  {
+    "weapon_art": "Fire Trail",
+    "icon": "T_UI_ICN_WeaponArt_FireTrail.png",
+    "description": "Leaves a trail of Fire behind while moving."
+  },
+  {
+    "weapon_art": "Fireball",
+    "icon": "T_UI_ICN_WeaponArt_Fireball.png",
+    "description": "Invoke a fireball that fires forward from your shield."
+  },
+  {
+    "weapon_art": "Gouging Throw",
+    "icon": "T_UI_ICN_WeaponArt_ImpalingBleedThrow.png",
+    "description": "Hurl your weapon and apply Bleed, then attack again to recall it on command."
+  },
+  {
+    "weapon_art": "Homing Projectiles",
+    "icon": "T_UI_ICN_WeaponArt_HomingProjectiles.png",
+    "description": "Cast homing orbs towards your foes. Deals Fire Damage."
+  },
+  {
+    "weapon_art": "Ice Trail",
+    "icon": "T_UI_ICN_WeaponArt_FrozenTrail.png",
+    "description": "Leaves a trail of Frost while moving."
+  },
+  {
+    "weapon_art": "Impaling Throw",
+    "icon": "T_UI_ICN_WeaponArt_ImpalingThrow.png",
+    "description": "Hurl your weapon at an enemy, then attack again to recall it on command."
+  },
+  {
+    "weapon_art": "Phoenix Flare",
+    "icon": "T_UI_ICN_WeaponArt_PhoenixFlare.png",
+    "description": "Burst into flames dealing Burning and damage to all enemies within 4 meters and yourself."
+  },
+  {
+    "weapon_art": "Pillars of Light",
+    "icon": "T_UI_ICN_WeaponArt_PillarsofLight.png",
+    "description": "Summon pillars of blinding light to deal Magic damage around target enemy."
+  },
+  {
+    "weapon_art": "Poison Caltrops",
+    "icon": "T_UI_ICN_WeaponArt_PoisonCaltrops.png",
+    "description": "Dodge and drop a zone of Poison at your previous location."
+  },
+  {
+    "weapon_art": "Poison Trail",
+    "icon": "T_UI_ICN_WeaponArt_PoisonTrail.png",
+    "description": "Leaves a trail of Poison while moving."
+  },
+  {
+    "weapon_art": "Purifying Blast",
+    "icon": "T_UI_ICN_WeaponArt_PurifyingBlast.png",
+    "description": "Consume all status effects on Targeted enemy to cause a burst of damage."
+  },
+  {
+    "weapon_art": "Reaper Whirlwind",
+    "icon": "T_UI_ICN_WeaponArt_ReaperWhirlwind.png",
+    "description": "Spin with your weapon, spawning Frost projectiles and striking nearby foes with Frost Attack."
+  },
+  {
+    "weapon_art": "Rupturing Slash",
+    "icon": "T_UI_ICN_WeaponArt_RupturingSlash.png",
+    "description": "Slash across your enemy dealing damage and Bleed."
+  },
+  {
+    "weapon_art": "Shield Bash",
+    "icon": "T_UI_ICN_WeaponArt_ShieldBash.png",
+    "description": "Blast forward with your shield and deal Crushing damage."
+  },
+  {
+    "weapon_art": "Sword of Rot",
+    "icon": "T_UI_ICN_WeaponArt_SwordofRot.png",
+    "description": "Raise thorns in a wave in front of you, dealing damage and Poison to enemies in its path."
+  },
+  {
+    "weapon_art": "Valak Slam",
+    "icon": "T_UI_ICN_WeaponArt_ValakSlam.png",
+    "description": "Slam down your weapon releasing a spray of magic flames."
+  },
+  {
+    "weapon_art": "Whirlwind",
+    "icon": "T_UI_ICN_WeaponArt_Whirlwind.png",
+    "description": "Spin with your weapon, striking all nearby foes with increased Attack."
+  },
+  {
+    "weapon_art": "Winter Solstice",
+    "icon": "T_UI_ICN_WeaponArt_WinterSolice.png",
+    "description": "Summon a wedge of ice from the ground and deal Frost."
+  },
+  {
+    "weapon_art": "Winter Sun",
+    "icon": "T_UI_ICN_WeaponArt_Wintersun.png",
+    "description": "Encase nearby foes with Frost."
+  }
+]

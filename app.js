@@ -24,10 +24,10 @@ async function init() {
     fetch("./trinkets.json").then((response) => response.json()),
   ]);
 
-  const weaponData = JSON.parse(`{"weapons":${weaponsRaw}}`);
+  const weaponData = parseWeaponsData(weaponsRaw);
 
-  state.weapons = weaponData.weapons;
-  state.shields = weaponData.shields;
+  state.weapons = weaponData.weapons ?? [];
+  state.shields = weaponData.shields ?? [];
   state.trinkets = trinkets.filter((trinket) => trinket.boon);
 
   renderBoonOptions();
@@ -101,7 +101,9 @@ function onBoonChange(event) {
 
 function renderResults() {
   const oneHandWeapons = state.weapons.filter((weapon) => weapon.type.startsWith("1H"));
-  const twoHandWeapons = state.weapons.filter((weapon) => !weapon.type.startsWith("1H"));
+  const twoHandWeapons = state.weapons.filter(
+    (weapon) => weapon.type === "Polearm" || weapon.type.startsWith("2H"),
+  );
 
   if (!state.selectedWeaponArt) {
     resultSummaryEl.textContent = "Select a weapon art to see matching loadouts.";
@@ -126,6 +128,14 @@ function renderResults() {
     }
   }
 
+  if (state.selectedBoon && !selectedTrinkets.length) {
+    resultSummaryEl.textContent = `No valid loadouts found: no trinket grants ${state.selectedBoon}.`;
+    trinketResultsEl.innerHTML = '<h3>Matching Trinket</h3><p class="muted">None</p>';
+    twoHandedResultsEl.innerHTML = "";
+    oneHandedResultsEl.innerHTML = "";
+    return;
+  }
+
   const totalLoadouts = validTwoHand.length + validOneHandPairs.length;
   resultSummaryEl.textContent =
     totalLoadouts > 0
@@ -133,7 +143,9 @@ function renderResults() {
       : `No valid loadouts found for ${state.selectedWeaponArt}.`;
 
   trinketResultsEl.innerHTML = state.selectedBoon
-    ? `<h3>Matching Trinket</h3>${renderList(selectedTrinkets.map((item) => `${item.trinket} (${item.boon})`))}`
+    ? `<h3>Matching Trinket</h3>${renderList(
+        selectedTrinkets.map((item) => `${item.name ?? item.trinket} (${item.boon})`),
+      )}`
     : `<h3>Trinket</h3><p class="muted">No boon selected. You may equip any one trinket.</p>`;
 
   twoHandedResultsEl.innerHTML = `<h3>2H Weapon Options</h3>${renderList(
@@ -160,4 +172,20 @@ function escapeHtml(text) {
     .replaceAll(">", "&gt;")
     .replaceAll('"', "&quot;")
     .replaceAll("'", "&#039;");
+}
+
+function parseWeaponsData(rawText) {
+  try {
+    const parsed = JSON.parse(rawText);
+    if (Array.isArray(parsed)) {
+      return { weapons: parsed, shields: [] };
+    }
+    return parsed;
+  } catch {
+    try {
+      return JSON.parse(`{"weapons":${rawText}}`);
+    } catch {
+      throw new Error("Unsupported weapons.json format.");
+    }
+  }
 }

@@ -1,382 +1,380 @@
-{
-  "weapons": [
-    {
-      "icon": "T_Weapon_CrudeBanditAxe_1024.png",
-      "name": "Crude Bandit Axe",
-      "description": "A crude single-bit axe sharpened on whatever stone the wielder could find.\n\nFavored by highwaymen of the Treveyan roads and the press-ganged crews of the Velchorian docks. Most are stolen; the rest are paid for in stolen coin.",
-      "type": "1H Axe",
-      "weapon_art": "",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Axe_Guitar_1024.png",
-      "name": "Axe of the Gods",
-      "description": "Behold the legendary of Axe of The Gods. Forged from the heaviest of metals, and wielded by only the most brutal of warriors.",
-      "type": "1H Axe",
-      "weapon_art": "Empower",
-      "unlock_source": "Deluxe Edition"
-    },
-    {
-      "icon": "T_Weapon_OneHandedHammer_01_1024.png",
-      "name": "Soldier's Hammer",
-      "description": "A short-hafted war-hammer issued to Velchorian line infantry.\n\nMade by the same forges that strike the Crusader Longsword, in lower grade and at higher volume.\n\nThe men who carry them outnumber the men who carry swords by roughly five to one.",
-      "type": "1H Hammer",
-      "weapon_art": "Earthen Strike",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_OneHandedHammer_02_1024.png",
-      "name": "Morning Star",
-      "description": "A heavy spiked mace, swung for the breaking of plate and the men inside it.\n\nA Velchorian sergeant's favorite when the line breaks; the spikes catch on shield-rims and pull them down in a way an edged weapon will not.",
-      "type": "1H Hammer",
-      "weapon_art": "Bleed Projectiles",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_Broadsword_1024.png",
-      "name": "Broadsword",
-      "description": "A standard-issue broadsword carried by Velchorian footmen and freeholders.\n\nForged at the foundries of Sadrys and Belwayne in army-quantities.\n\nMost men of Eden hold one in their first battle, and a fair number carry one through their last.",
-      "type": "1H Sword",
-      "weapon_art": "",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_ObsidianShard_1024.png",
-      "name": "Obsidian Shard",
-      "description": "An ancient worn blade corrupted by abyssal magick. It's essence pierces the very soul of its foes, bypassing most defenses.\n\nThe Seekers, devotees in service to Aegoroth, were blind scholars who dwelled in the deep dark beneath the lands.",
-      "type": "1H Sword",
-      "weapon_art": "Bleed Projectiles",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_CrimsonOathBroadsword_1024.png",
-      "name": "Crimson Oath Broadsword",
-      "description": "A hefty broadsword wielded by the Nephilim Paladins of the Order of the Crimson Moon.\n\nThe armaments of the Order take advantage of the Nephilim's innate strength, leveraging weight and durability that would be a hindrance for mortal man.",
-      "type": "1H Sword",
-      "weapon_art": "Impaling Throw",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_ChampionSword_1024.png",
-      "name": "Champion\u2019s Sword",
-      "description": "A blade forged for Champions, Nephilim heroes from the Armaean city-state of Litinstang.\n\nThe rare few Nephilim who have proven themselves loyal to Litinstang are protected from Lunitarian law.",
-      "type": "1H Sword",
-      "weapon_art": "Earthen Strike",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_CovenantClericSword_1024.png",
-      "name": "Covenant Sword",
-      "description": "A sword wielded by Covenant Clerics, elite knights of the Lunitarian Covenant Crusaders.\n\nIt is expected for chaplains to be adept in combat as well as theology.\n\nMasters of warfare both physical and spiritual.",
-      "type": "1H Sword",
-      "weapon_art": "Impaling Throw",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_Apostate_Sword_1024.png",
-      "name": "Recantation",
-      "description": "A Lunitarian execution blade, drawn only at the close of an Apostate Hunt.\n\nForged from the swords seized at the signing of the Crimson Concordat.\n\nThe Church's ledgers name every Nephilim who has carried it; the ledgers do not name the apostates it has put down.",
-      "type": "1H Sword",
-      "weapon_art": "Gouging Throw",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_RevenantSword_1024.png",
-      "name": "Revenant Blade",
-      "description": "An accursed sword once thought to be lost to legend.\n\nThe Revenant of Gildeus haunted the depths of Gildenarch.\n\nWatching over the forgotten dead buried under the Church's occupation.",
-      "type": "1H Sword",
-      "weapon_art": "Winter Sun",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_DragonSlayerGreatsword_1024.png",
-      "name": "Dragon Assassin Broadsword",
-      "description": "A hefty broadsword wielded by Dragon Assassins.\n\nSlaying dragons is a time honored service in the Velchorian Empire.\n\nHistorically taken up by humans, now predominantly pursued by Nephilim.",
-      "type": "1H Sword",
-      "weapon_art": "Fire Burst",
-      "unlock_source": "Tyrigon"
-    },
-    {
-      "icon": "T_Weapon_Flamesword_1024.png",
-      "name": "Fiery Broadsword",
-      "description": "An unusual broadsword imbued with a fire enchantment.\n\nAlthough heavily regulated by the Church, enchantments are among the most common forms of magick allowed within the Adamaic Empire.",
-      "type": "1H Sword",
-      "weapon_art": "Fire Burst",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_FlameswordOrnate_1024.png",
-      "name": "Sanctus Pyre",
-      "description": "An inquisitor's flamberge, its crossguard wrought into a thorn-halo around a single drop of red glass.\n\nCarried by the Pyresworn, a Lunitarian inquisitorial order tasked with the burning of heretics by sentence and the burning of villages by mistake.\n\nThe red glass is said to hold a tear of the saint who founded them.",
-      "type": "1H Sword",
-      "weapon_art": "Phoenix Flare",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_SovereignSword_1024.png",
-      "name": "Sovereign\u2019s Sword",
-      "description": "A longsword issued to the Sovereign Sentries of the Velchorian throne.\n\nThe Sentries answer to the imperial crown and not the Church.\n\nThe distinction is small in peacetime\u2026 not so in war.",
-      "type": "1H Sword",
-      "weapon_art": "Purifying Blast",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_Longsword_1024.png",
-      "name": "Crusader Longsword",
-      "description": "The standard-issued imperial longsword, wielded by the Covenant Crusaders.\n\nThe Covenant Crusader is the enforcer of the Lunitarian Church's will, and is infamous across Eden for their passion and zealotry.\n\nDesigned for effective thrusting and is moderately useful for slashing.",
-      "type": "1H Sword",
-      "weapon_art": "",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_Lumenfel_1024.png",
-      "name": "Lumenfel",
-      "description": "An ancient sword imbued with the Divine's holy moonlight. Its edge delivers immense Holy damage.\n\nThis blade's original bearer has been lost to history yet its identity and purpose remains clear.\n\nThe full moon cuts through darkness.",
-      "type": "1H Sword",
-      "weapon_art": "Pillars of Light",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_LostLegionnaireSword_1024.png",
-      "name": "Blasphemous Accord",
-      "description": "A wicked blade wielded by the demonic footsoldiers of the Infernal Lost Legion.\n\nThe blade looks as if it will perish after serving its usefulness. The legion wastes nothing in their conquests, for they have nothing left to lose.",
-      "type": "1H Sword",
-      "weapon_art": "Poison Caltrops",
-      "unlock_source": "The Warden"
-    },
-    {
-      "icon": "T_Weapon_LunarSentinel_1024.png",
-      "name": "Sword of the Lunar Sentinel",
-      "description": "The Lunar Sentinels harken to a time before Lunarin's ascendance to the Divine Throne.\n\nAny mentions of Lunarin worship before the Church are considered a vile heresy.\n\nAttracting great skepticism and condemnation towards anyone seeking to revive ancient knowledge... now considered outdated.",
-      "type": "1H Sword",
-      "weapon_art": "Winter Sun",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_MahktenSword_1024.png",
-      "name": "Burning Heart",
-      "description": "A smoldering blade wielded by the extinct Mahkten Marrauders. Bestial warriors in service to The Lord of Perdition.\n\nIn times of old, when the Coil was yet whole, war dominated the lands of Eden, and none were more adept than Mahkteah's devoted.",
-      "type": "1H Sword",
-      "weapon_art": "Aura of the Burning Heart",
-      "unlock_source": "Mahkteah, The Lord of Perdition"
-    },
-    {
-      "icon": "T_Weapon_SwordOfRot_1024.png",
-      "name": "Rotkin\u2019s Thorn",
-      "description": "A corrupted blade forged from the bones of an ancient beast.\n\nThe tragic corruption of the ancient Stagkin is felt today through their wicked weaponry.\n\nAlthough brittle in appearance, these swords are anything but.",
-      "type": "1H Sword",
-      "weapon_art": "Sword of Rot",
-      "unlock_source": "E'frae, the Dry Rot King"
-    },
-    {
-      "icon": "T_Weapon_PhoenixPaladinSword_1024.png",
-      "name": "Belwayne Sword",
-      "description": "A beautiful longsword wielded by the Phoenix Paladins of Belwayne.\n\nThe Armaean City-State of Belwayne is famous for their Phoenix heraldry and ornate weapons and armor.",
-      "type": "1H Sword",
-      "weapon_art": "Avenging Pestilence",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_RamSword_1024.png",
-      "name": "Gildenarch's Glory",
-      "description": "A magnificent weapon forged in honor of Gildenarch.\n\nThe magnificant rams of the Treveyan Highlands have long inspired the city of Gildenarch since the days before the city's founding.\n\nNo matter what changes, some truth yet remains.",
-      "type": "1H Sword",
-      "weapon_art": "Valak Slam",
-      "unlock_source": "General Valahk - Nor"
-    },
-    {
-      "icon": "T_Weapon_SanctusZealot_1024.png",
-      "name": "Axiom",
-      "description": "An ancient sword integral to Lunitarian history, both feared and respected.\n\nThe sword Axiom symbolized Lunitarian dominance and the eradication of paganism.\n\nIts namesake is an assertion of the new world order that followed the War of the Gods.",
-      "type": "1H Sword",
-      "weapon_art": "Bleed Projectiles",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_VampireSword1_1024.png",
-      "name": "Scirax",
-      "description": "The sword of Clan Telvaught.\n\nFew tales do justice to the feuds between Eden's vampire clans than that of Clan Moore's seizure of Telvaught's legendary Scirax.\n\nTaken from the corpse of Lord Erington.",
-      "type": "1H Sword",
-      "weapon_art": "Gouging Throw",
-      "unlock_source": "Felwyl, The Withered"
-    },
-    {
-      "icon": "T_Weapon_CardinalStaff_1024.png",
-      "name": "Defiled Night",
-      "description": "A long ceremonial staff carried by Cardinals of the Lunitarian Church, hafted for both rite and reach.\n\nCardinal Mathias carried his into the Archspire Cathedral on the night Solomon's vampires walked through the doors he had unlocked himself.",
-      "type": "Polearm",
-      "weapon_art": "Cardinal's Staff",
-      "unlock_source": "Cardinal Mathias"
-    },
-    {
-      "icon": "T_Weapon_CrescentMoonHalberd_1024.png",
-      "name": "Crescent Moon Halberd",
-      "description": "A halberd whose hooked blade is forged in the silhouette of a waning moon.\n\nThe crescent predates the Lunitarian Church; smiths who still strike it into steel work in private, and only by commission from buyers who do not write their names down.",
-      "type": "Polearm",
-      "weapon_art": "Winter Solstice",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_HellgrowthGlaive_1024.png",
-      "name": "Akyreon's Tongue",
-      "description": "A glaive grown from Hellgrowth, its blade still warm to the touch.\n\nCut from raw biomass before it could thicken into a hive's nervous tissue, and bound in iron to keep it from rooting again.\n\nThe Order's smiths burn the binding salts each dawn; on the days they forget, the blade is found longer than the day before.",
-      "type": "Polearm",
-      "weapon_art": "Egregore Explosion",
-      "unlock_source": "Flesh-Wrought Egregore"
-    },
-    {
-      "icon": "T_Weapon_LeviathanGreataxe_1024.png",
-      "name": "Leviathan Great Axe",
-      "description": "A great axe forged in Velchoria's harbor districts, sized for whaling crews.\n\nThey hunted the leviathans of the Vulken Sea before the leviathans stopped surfacing.\n\nThe axes remain in the rafters of the old whale-houses; the smiths who reforge them say the steel smells of the deep while they cool.",
-      "type": "Polearm",
-      "weapon_art": "Reaper Whirlwind",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_PodaoSaberGlaive_1024.png",
-      "name": "Drakeward",
-      "description": "A gilded saber-glaive carried by the honor guards of the Aurullian sun-courts.\n\nForged for ceremony before war, the dragon-scroll on the blade is older than the iron beneath it.\n\nThe guards have carried these long enough that the families of the courts have forgotten which served whom.",
-      "type": "Polearm",
-      "weapon_art": "Whirlwind",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_ReaperPoleaxe_1024.png",
-      "name": "Reaper Poleaxe",
-      "description": "A poleaxe fashioned from a harvest scythe, the curve hammered straight and the haft re-bound in iron.\n\nThe peasants of the Velchorian inlands used them for planting.\n\nSome still smell of the wheat they once cut.",
-      "type": "Polearm",
-      "weapon_art": "Homing Projectiles",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_SpikeBackedHalberd_1024.png",
-      "name": "Wyrmtongue",
-      "description": "A noble's hunting glaive, its socket cast as a dragon's mouth and the red gem set as its eye.\n\nCarried in the deer-parks of the Velchorian high estates, where the only dragons left in Eden are the ones smiths still remember well enough to shape.",
-      "type": "Polearm",
-      "weapon_art": "Rupturing Slash",
-      "unlock_source": ""
-    },
-    {
-      "icon": "T_Weapon_VampiricHalberd_1024.png",
-      "name": "Cultravix",
-      "description": "A long-hafted halberd carried by the foot soldiers of Eden's vampire clans.\n\nThe blades are sharpened to draw blood quickly and the staves grooved to drink it; vampires who must fight in the open prefer their kills tidy.",
-      "type": "Polearm",
-      "weapon_art": "Rupturing Slash",
-      "unlock_source": "Felwyl, The Ascended"
-    }
-  ],
-  "shields": [
-    {
-      "icon": "T_Shield_DarkNephilimDesign3_1024.png",
-      "name": "Apostate's Shield",
-      "description": "A shield carried by Nephilim who refused the Crimson Concordat and lived long enough to need one.\n\nMost were taken from the dead at the close of the first Apostate Hunts.\n\nThe few that were not are still in the field, and the Order does not press inquiries.",
-      "type": "Shield",
-      "weapon_art": "Shield Bash"
-    },
-    {
-      "icon": "T_Shield_Champion_1024.png",
-      "name": "Champion Shield",
-      "description": "Shield forged for Champions. Nephilim heroes from the Armaean citystate of Litinstang.\n\nThe rare few Nephilim who have proven themselves loyal to Litinstang are protected from Lunitarian law.",
-      "type": "Shield",
-      "weapon_art": "Shield Bash"
-    },
-    {
-      "icon": "T_Shield_CovenantCleric_1024.png",
-      "name": "Covenant Cleric Shield",
-      "description": "A heater shield carried by Covenant Clerics, the warrior-priests of the Crusader corps.\n\nThe cleric raises it against demons and dissenters alike; in the Church's reckoning, the difference between the two is a matter of confession.",
-      "type": "Shield",
-      "weapon_art": "Empower"
-    },
-    {
-      "icon": "T_Shield_CrimsonOath_1024.png",
-      "name": "Crimson Oath Shield",
-      "description": "A tower shield bearing the sigil of the Crimson Concordat, issued to Nephilim of the Order.\n\nThe bond between Church and Order is rendered in steel and hung from the bearer's arm, carried by some as a vow honored and others as a debt remembered.",
-      "type": "Shield",
-      "weapon_art": "Shield Bash"
-    },
-    {
-      "icon": "T_Shield_LunarSentinel_1024.png",
-      "name": "Lunar Sentinel Shield",
-      "description": "The Lunar Sentinels harken to a time before Lunarin's ascendance to the Divine Throne.\n\nAny mentions of Lunarin worship before the Church are considered a vile heresy, attracting great skepticism and condemnation towards anyone \"seeking to revive ancient knowledge\" now considered outdated.",
-      "type": "Shield",
-      "weapon_art": "Ice Trail"
-    },
-    {
-      "icon": "T_Shield_DarkNephilimDesign2_1024.png",
-      "name": "Mahkten Shield",
-      "description": "A smoldering shield wielded by the extinct Mahkten Marauders. Bestial warriors in service to The Lord of Perdition.\n\nIn times of old, when the Coil was yet whole, war dominated the lands of Eden, and none were more adept than Mahkteah's devoted.",
-      "type": "Shield",
-      "weapon_art": "Fireball"
-    },
-    {
-      "icon": "T_Shield_MetalShield_Ornate_1024.png",
-      "name": "Ornate Soldier's Shield",
-      "description": "An ornate shield issued to knights who stood watch over the Archspire Cathedral.\n\nImmaculate, and functional. The empire spent a good deal of coin when the Church demanded it.",
-      "type": "Shield",
-      "weapon_art": "Shield Bash"
-    },
-    {
-      "icon": "T_Shield_PhoenixPaladin_1024.png",
-      "name": "Belwayne Aegis",
-      "description": "A round aegis of gold and silver, two phoenix wings spread around a central sunburst.\n\nForged in Belwayne, where the phoenix is both heraldry and religion.\n\nThe Order keeps a small consignment for the Nephilim who came up through that city's halls.",
-      "type": "Shield",
-      "weapon_art": "Fire Trail"
-    },
-    {
-      "icon": "T_Shield_DarkNephilimDesign1_1024.png",
-      "name": "Revenant Shield",
-      "description": "An accursed shield, once thought to be lost to legend.\n\nThe Revenant of Gildeus haunted depths of Gildenarch, watching over the forgotten dead buried under the Church's occupation.",
-      "type": "Shield",
-      "weapon_art": "Shield Bash"
-    },
-    {
-      "icon": "T_Shield_Pagan_1024.png",
-      "name": "Rotkin Shield",
-      "description": "A shield of woven antler and root, knotted by the Stagkin in better times.\n\nTheir god has since begun to rot. The Rotkin still carry these shields; the antlers crumble and the roots no longer hold green leaf, but they say a shield need not live to defend its bearer, only remember its bearer's god.",
-      "type": "Shield",
-      "weapon_art": "Poison Trail"
-    },
-    {
-      "icon": "T_Shield_RamArmor_1024.png",
-      "name": "Shield of the Ram\u2019s Glory",
-      "description": "A magnificent shield forged in honor of Gildenarch.\n\nThe magnificant rams of the Treveyan Highlands have long inspired the city of Gildenarch since the days before the city's founding.\n\nNo matter what changes, some truth yet remains.",
-      "type": "Shield",
-      "weapon_art": "Shield Bash"
-    },
-    {
-      "icon": "T_Shield_SanctusZealot_1024.png",
-      "name": "Shield of the Zealot",
-      "description": "An ancient shield integral to Lunitarian history, both feared and respected.\n\nThe Holy Lineage drew a clear delineation between the Lunar Sentinels and the Church.\n\nThe Sanctus Zealot enforced the New Order.",
-      "type": "Shield",
-      "weapon_art": "Angelic Bulwark"
-    },
-    {
-      "icon": "T_Shield_MetalShield_1024.png",
-      "name": "Soldier\u2019s Shield",
-      "description": "A heater shield issued to Velchorian foot soldiers, faced in plain steel and trimmed in tarred leather.\n\nWeather-worn but serviceable; the Empire issues them in a single grade and replaces them only when the rim splits past the boss.",
-      "type": "Shield",
-      "weapon_art": "Shield Bash"
-    },
-    {
-      "icon": "T_Shield_Sovereign_1024.png",
-      "name": "Sovereign\u2019s Shield",
-      "description": "A tower shield bearing the heron of the Velchorian throne.\n\nCarried by Sovereign Sentries in the halls of the imperial court.\n\nThe herons were once the only banner the Empire flew; now they fly beneath the Lunitarian moon, and the Sentries say nothing about it.",
-      "type": "Shield",
-      "weapon_art": "Angelic Bulwark"
-    },
-    {
-      "icon": "T_Shield__Wooden_Ornate_1024.png",
-      "name": "Tarnished Wooden Shield",
-      "description": "A wooden shield, weather-worn and softened by moss along its grain.\n\nSalvaged from the bodies of conscripted militia who fell in the city's first night, before the Order arrived and the dying stopped being counted.",
-      "type": "Shield",
-      "weapon_art": "Shield Bash"
-    },
-    {
-      "icon": "T_Shield_Vampire_1024.png",
-      "name": "Telvaught Clan Shield",
-      "description": "The shield of the vampire clan Telvaught.\n\nVampire Clans engage in ideological conlicts no better than humanity.\n\nClan Telvaught knew this well, and was always prepared for battle against their kin.",
-      "type": "Shield",
-      "weapon_art": "Bleed Projectiles"
-    }
-  ]
-}
+[
+  {
+    "icon": "T_Weapon_CrudeBanditAxe_1024.png",
+    "name": "Crude Bandit Axe",
+    "description": "A crude single-bit axe sharpened on whatever stone the wielder could find.\n\nFavored by highwaymen of the Treveyan roads and the press-ganged crews of the Velchorian docks. Most are stolen; the rest are paid for in stolen coin.",
+    "type": "1H Axe",
+    "weapon_art": "",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Axe_Guitar_1024.png",
+    "name": "Axe of the Gods",
+    "description": "Behold the legendary of Axe of The Gods. Forged from the heaviest of metals, and wielded by only the most brutal of warriors.",
+    "type": "1H Axe",
+    "weapon_art": "Empower",
+    "unlock_source": "Deluxe Edition"
+  },
+  {
+    "icon": "T_Weapon_OneHandedHammer_01_1024.png",
+    "name": "Soldier's Hammer",
+    "description": "A short-hafted war-hammer issued to Velchorian line infantry.\n\nMade by the same forges that strike the Crusader Longsword, in lower grade and at higher volume.\n\nThe men who carry them outnumber the men who carry swords by roughly five to one.",
+    "type": "1H Hammer",
+    "weapon_art": "Earthen Strike",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_OneHandedHammer_02_1024.png",
+    "name": "Morning Star",
+    "description": "A heavy spiked mace, swung for the breaking of plate and the men inside it.\n\nA Velchorian sergeant's favorite when the line breaks; the spikes catch on shield-rims and pull them down in a way an edged weapon will not.",
+    "type": "1H Hammer",
+    "weapon_art": "Bleed Projectiles",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_Broadsword_1024.png",
+    "name": "Broadsword",
+    "description": "A standard-issue broadsword carried by Velchorian footmen and freeholders.\n\nForged at the foundries of Sadrys and Belwayne in army-quantities.\n\nMost men of Eden hold one in their first battle, and a fair number carry one through their last.",
+    "type": "1H Sword",
+    "weapon_art": "",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_ObsidianShard_1024.png",
+    "name": "Obsidian Shard",
+    "description": "An ancient worn blade corrupted by abyssal magick. It's essence pierces the very soul of its foes, bypassing most defenses.\n\nThe Seekers, devotees in service to Aegoroth, were blind scholars who dwelled in the deep dark beneath the lands.",
+    "type": "1H Sword",
+    "weapon_art": "Bleed Projectiles",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_CrimsonOathBroadsword_1024.png",
+    "name": "Crimson Oath Broadsword",
+    "description": "A hefty broadsword wielded by the Nephilim Paladins of the Order of the Crimson Moon.\n\nThe armaments of the Order take advantage of the Nephilim's innate strength, leveraging weight and durability that would be a hindrance for mortal man.",
+    "type": "1H Sword",
+    "weapon_art": "Impaling Throw",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_ChampionSword_1024.png",
+    "name": "Champion\u2019s Sword",
+    "description": "A blade forged for Champions, Nephilim heroes from the Armaean city-state of Litinstang.\n\nThe rare few Nephilim who have proven themselves loyal to Litinstang are protected from Lunitarian law.",
+    "type": "1H Sword",
+    "weapon_art": "Earthen Strike",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_CovenantClericSword_1024.png",
+    "name": "Covenant Sword",
+    "description": "A sword wielded by Covenant Clerics, elite knights of the Lunitarian Covenant Crusaders.\n\nIt is expected for chaplains to be adept in combat as well as theology.\n\nMasters of warfare both physical and spiritual.",
+    "type": "1H Sword",
+    "weapon_art": "Impaling Throw",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_Apostate_Sword_1024.png",
+    "name": "Recantation",
+    "description": "A Lunitarian execution blade, drawn only at the close of an Apostate Hunt.\n\nForged from the swords seized at the signing of the Crimson Concordat.\n\nThe Church's ledgers name every Nephilim who has carried it; the ledgers do not name the apostates it has put down.",
+    "type": "1H Sword",
+    "weapon_art": "Gouging Throw",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_RevenantSword_1024.png",
+    "name": "Revenant Blade",
+    "description": "An accursed sword once thought to be lost to legend.\n\nThe Revenant of Gildeus haunted the depths of Gildenarch.\n\nWatching over the forgotten dead buried under the Church's occupation.",
+    "type": "1H Sword",
+    "weapon_art": "Winter Sun",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_DragonSlayerGreatsword_1024.png",
+    "name": "Dragon Assassin Broadsword",
+    "description": "A hefty broadsword wielded by Dragon Assassins.\n\nSlaying dragons is a time honored service in the Velchorian Empire.\n\nHistorically taken up by humans, now predominantly pursued by Nephilim.",
+    "type": "1H Sword",
+    "weapon_art": "Fire Burst",
+    "unlock_source": "Tyrigon"
+  },
+  {
+    "icon": "T_Weapon_Flamesword_1024.png",
+    "name": "Fiery Broadsword",
+    "description": "An unusual broadsword imbued with a fire enchantment.\n\nAlthough heavily regulated by the Church, enchantments are among the most common forms of magick allowed within the Adamaic Empire.",
+    "type": "1H Sword",
+    "weapon_art": "Fire Burst",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_FlameswordOrnate_1024.png",
+    "name": "Sanctus Pyre",
+    "description": "An inquisitor's flamberge, its crossguard wrought into a thorn-halo around a single drop of red glass.\n\nCarried by the Pyresworn, a Lunitarian inquisitorial order tasked with the burning of heretics by sentence and the burning of villages by mistake.\n\nThe red glass is said to hold a tear of the saint who founded them.",
+    "type": "1H Sword",
+    "weapon_art": "Phoenix Flare",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_SovereignSword_1024.png",
+    "name": "Sovereign\u2019s Sword",
+    "description": "A longsword issued to the Sovereign Sentries of the Velchorian throne.\n\nThe Sentries answer to the imperial crown and not the Church.\n\nThe distinction is small in peacetime\u2026 not so in war.",
+    "type": "1H Sword",
+    "weapon_art": "Purifying Blast",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_Longsword_1024.png",
+    "name": "Crusader Longsword",
+    "description": "The standard-issued imperial longsword, wielded by the Covenant Crusaders.\n\nThe Covenant Crusader is the enforcer of the Lunitarian Church's will, and is infamous across Eden for their passion and zealotry.\n\nDesigned for effective thrusting and is moderately useful for slashing.",
+    "type": "1H Sword",
+    "weapon_art": "",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_Lumenfel_1024.png",
+    "name": "Lumenfel",
+    "description": "An ancient sword imbued with the Divine's holy moonlight. Its edge delivers immense Holy damage.\n\nThis blade's original bearer has been lost to history yet its identity and purpose remains clear.\n\nThe full moon cuts through darkness.",
+    "type": "1H Sword",
+    "weapon_art": "Pillars of Light",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_LostLegionnaireSword_1024.png",
+    "name": "Blasphemous Accord",
+    "description": "A wicked blade wielded by the demonic footsoldiers of the Infernal Lost Legion.\n\nThe blade looks as if it will perish after serving its usefulness. The legion wastes nothing in their conquests, for they have nothing left to lose.",
+    "type": "1H Sword",
+    "weapon_art": "Poison Caltrops",
+    "unlock_source": "The Warden"
+  },
+  {
+    "icon": "T_Weapon_LunarSentinel_1024.png",
+    "name": "Sword of the Lunar Sentinel",
+    "description": "The Lunar Sentinels harken to a time before Lunarin's ascendance to the Divine Throne.\n\nAny mentions of Lunarin worship before the Church are considered a vile heresy.\n\nAttracting great skepticism and condemnation towards anyone seeking to revive ancient knowledge... now considered outdated.",
+    "type": "1H Sword",
+    "weapon_art": "Winter Sun",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_MahktenSword_1024.png",
+    "name": "Burning Heart",
+    "description": "A smoldering blade wielded by the extinct Mahkten Marrauders. Bestial warriors in service to The Lord of Perdition.\n\nIn times of old, when the Coil was yet whole, war dominated the lands of Eden, and none were more adept than Mahkteah's devoted.",
+    "type": "1H Sword",
+    "weapon_art": "Aura of the Burning Heart",
+    "unlock_source": "Mahkteah, The Lord of Perdition"
+  },
+  {
+    "icon": "T_Weapon_SwordOfRot_1024.png",
+    "name": "Rotkin\u2019s Thorn",
+    "description": "A corrupted blade forged from the bones of an ancient beast.\n\nThe tragic corruption of the ancient Stagkin is felt today through their wicked weaponry.\n\nAlthough brittle in appearance, these swords are anything but.",
+    "type": "1H Sword",
+    "weapon_art": "Sword of Rot",
+    "unlock_source": "E'frae, the Dry Rot King"
+  },
+  {
+    "icon": "T_Weapon_PhoenixPaladinSword_1024.png",
+    "name": "Belwayne Sword",
+    "description": "A beautiful longsword wielded by the Phoenix Paladins of Belwayne.\n\nThe Armaean City-State of Belwayne is famous for their Phoenix heraldry and ornate weapons and armor.",
+    "type": "1H Sword",
+    "weapon_art": "Avenging Pestilence",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_RamSword_1024.png",
+    "name": "Gildenarch's Glory",
+    "description": "A magnificent weapon forged in honor of Gildenarch.\n\nThe magnificant rams of the Treveyan Highlands have long inspired the city of Gildenarch since the days before the city's founding.\n\nNo matter what changes, some truth yet remains.",
+    "type": "1H Sword",
+    "weapon_art": "Valak Slam",
+    "unlock_source": "General Valahk - Nor"
+  },
+  {
+    "icon": "T_Weapon_SanctusZealot_1024.png",
+    "name": "Axiom",
+    "description": "An ancient sword integral to Lunitarian history, both feared and respected.\n\nThe sword Axiom symbolized Lunitarian dominance and the eradication of paganism.\n\nIts namesake is an assertion of the new world order that followed the War of the Gods.",
+    "type": "1H Sword",
+    "weapon_art": "Bleed Projectiles",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_VampireSword1_1024.png",
+    "name": "Scirax",
+    "description": "The sword of Clan Telvaught.\n\nFew tales do justice to the feuds between Eden's vampire clans than that of Clan Moore's seizure of Telvaught's legendary Scirax.\n\nTaken from the corpse of Lord Erington.",
+    "type": "1H Sword",
+    "weapon_art": "Gouging Throw",
+    "unlock_source": "Felwyl, The Withered"
+  },
+  {
+    "icon": "T_Weapon_CardinalStaff_1024.png",
+    "name": "Defiled Night",
+    "description": "A long ceremonial staff carried by Cardinals of the Lunitarian Church, hafted for both rite and reach.\n\nCardinal Mathias carried his into the Archspire Cathedral on the night Solomon's vampires walked through the doors he had unlocked himself.",
+    "type": "Polearm",
+    "weapon_art": "Cardinal's Staff",
+    "unlock_source": "Cardinal Mathias"
+  },
+  {
+    "icon": "T_Weapon_CrescentMoonHalberd_1024.png",
+    "name": "Crescent Moon Halberd",
+    "description": "A halberd whose hooked blade is forged in the silhouette of a waning moon.\n\nThe crescent predates the Lunitarian Church; smiths who still strike it into steel work in private, and only by commission from buyers who do not write their names down.",
+    "type": "Polearm",
+    "weapon_art": "Winter Solstice",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_HellgrowthGlaive_1024.png",
+    "name": "Akyreon's Tongue",
+    "description": "A glaive grown from Hellgrowth, its blade still warm to the touch.\n\nCut from raw biomass before it could thicken into a hive's nervous tissue, and bound in iron to keep it from rooting again.\n\nThe Order's smiths burn the binding salts each dawn; on the days they forget, the blade is found longer than the day before.",
+    "type": "Polearm",
+    "weapon_art": "Egregore Explosion",
+    "unlock_source": "Flesh-Wrought Egregore"
+  },
+  {
+    "icon": "T_Weapon_LeviathanGreataxe_1024.png",
+    "name": "Leviathan Great Axe",
+    "description": "A great axe forged in Velchoria's harbor districts, sized for whaling crews.\n\nThey hunted the leviathans of the Vulken Sea before the leviathans stopped surfacing.\n\nThe axes remain in the rafters of the old whale-houses; the smiths who reforge them say the steel smells of the deep while they cool.",
+    "type": "Polearm",
+    "weapon_art": "Reaper Whirlwind",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_PodaoSaberGlaive_1024.png",
+    "name": "Drakeward",
+    "description": "A gilded saber-glaive carried by the honor guards of the Aurullian sun-courts.\n\nForged for ceremony before war, the dragon-scroll on the blade is older than the iron beneath it.\n\nThe guards have carried these long enough that the families of the courts have forgotten which served whom.",
+    "type": "Polearm",
+    "weapon_art": "Whirlwind",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_ReaperPoleaxe_1024.png",
+    "name": "Reaper Poleaxe",
+    "description": "A poleaxe fashioned from a harvest scythe, the curve hammered straight and the haft re-bound in iron.\n\nThe peasants of the Velchorian inlands used them for planting.\n\nSome still smell of the wheat they once cut.",
+    "type": "Polearm",
+    "weapon_art": "Homing Projectiles",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_SpikeBackedHalberd_1024.png",
+    "name": "Wyrmtongue",
+    "description": "A noble's hunting glaive, its socket cast as a dragon's mouth and the red gem set as its eye.\n\nCarried in the deer-parks of the Velchorian high estates, where the only dragons left in Eden are the ones smiths still remember well enough to shape.",
+    "type": "Polearm",
+    "weapon_art": "Rupturing Slash",
+    "unlock_source": ""
+  },
+  {
+    "icon": "T_Weapon_VampiricHalberd_1024.png",
+    "name": "Cultravix",
+    "description": "A long-hafted halberd carried by the foot soldiers of Eden's vampire clans.\n\nThe blades are sharpened to draw blood quickly and the staves grooved to drink it; vampires who must fight in the open prefer their kills tidy.",
+    "type": "Polearm",
+    "weapon_art": "Rupturing Slash",
+    "unlock_source": "Felwyl, The Ascended"
+  }
+],
+"shields": [
+  {
+    "icon": "T_Shield_DarkNephilimDesign3_1024.png",
+    "name": "Apostate's Shield",
+    "description": "A shield carried by Nephilim who refused the Crimson Concordat and lived long enough to need one.\n\nMost were taken from the dead at the close of the first Apostate Hunts.\n\nThe few that were not are still in the field, and the Order does not press inquiries.",
+    "type": "Shield",
+    "weapon_art": "Shield Bash"
+  },
+  {
+    "icon": "T_Shield_Champion_1024.png",
+    "name": "Champion Shield",
+    "description": "Shield forged for Champions. Nephilim heroes from the Armaean citystate of Litinstang.\n\nThe rare few Nephilim who have proven themselves loyal to Litinstang are protected from Lunitarian law.",
+    "type": "Shield",
+    "weapon_art": "Shield Bash"
+  },
+  {
+    "icon": "T_Shield_CovenantCleric_1024.png",
+    "name": "Covenant Cleric Shield",
+    "description": "A heater shield carried by Covenant Clerics, the warrior-priests of the Crusader corps.\n\nThe cleric raises it against demons and dissenters alike; in the Church's reckoning, the difference between the two is a matter of confession.",
+    "type": "Shield",
+    "weapon_art": "Empower"
+  },
+  {
+    "icon": "T_Shield_CrimsonOath_1024.png",
+    "name": "Crimson Oath Shield",
+    "description": "A tower shield bearing the sigil of the Crimson Concordat, issued to Nephilim of the Order.\n\nThe bond between Church and Order is rendered in steel and hung from the bearer's arm, carried by some as a vow honored and others as a debt remembered.",
+    "type": "Shield",
+    "weapon_art": "Shield Bash"
+  },
+  {
+    "icon": "T_Shield_LunarSentinel_1024.png",
+    "name": "Lunar Sentinel Shield",
+    "description": "The Lunar Sentinels harken to a time before Lunarin's ascendance to the Divine Throne.\n\nAny mentions of Lunarin worship before the Church are considered a vile heresy, attracting great skepticism and condemnation towards anyone \"seeking to revive ancient knowledge\" now considered outdated.",
+    "type": "Shield",
+    "weapon_art": "Ice Trail"
+  },
+  {
+    "icon": "T_Shield_DarkNephilimDesign2_1024.png",
+    "name": "Mahkten Shield",
+    "description": "A smoldering shield wielded by the extinct Mahkten Marauders. Bestial warriors in service to The Lord of Perdition.\n\nIn times of old, when the Coil was yet whole, war dominated the lands of Eden, and none were more adept than Mahkteah's devoted.",
+    "type": "Shield",
+    "weapon_art": "Fireball"
+  },
+  {
+    "icon": "T_Shield_MetalShield_Ornate_1024.png",
+    "name": "Ornate Soldier's Shield",
+    "description": "An ornate shield issued to knights who stood watch over the Archspire Cathedral.\n\nImmaculate, and functional. The empire spent a good deal of coin when the Church demanded it.",
+    "type": "Shield",
+    "weapon_art": "Shield Bash"
+  },
+  {
+    "icon": "T_Shield_PhoenixPaladin_1024.png",
+    "name": "Belwayne Aegis",
+    "description": "A round aegis of gold and silver, two phoenix wings spread around a central sunburst.\n\nForged in Belwayne, where the phoenix is both heraldry and religion.\n\nThe Order keeps a small consignment for the Nephilim who came up through that city's halls.",
+    "type": "Shield",
+    "weapon_art": "Fire Trail"
+  },
+  {
+    "icon": "T_Shield_DarkNephilimDesign1_1024.png",
+    "name": "Revenant Shield",
+    "description": "An accursed shield, once thought to be lost to legend.\n\nThe Revenant of Gildeus haunted depths of Gildenarch, watching over the forgotten dead buried under the Church's occupation.",
+    "type": "Shield",
+    "weapon_art": "Shield Bash"
+  },
+  {
+    "icon": "T_Shield_Pagan_1024.png",
+    "name": "Rotkin Shield",
+    "description": "A shield of woven antler and root, knotted by the Stagkin in better times.\n\nTheir god has since begun to rot. The Rotkin still carry these shields; the antlers crumble and the roots no longer hold green leaf, but they say a shield need not live to defend its bearer, only remember its bearer's god.",
+    "type": "Shield",
+    "weapon_art": "Poison Trail"
+  },
+  {
+    "icon": "T_Shield_RamArmor_1024.png",
+    "name": "Shield of the Ram\u2019s Glory",
+    "description": "A magnificent shield forged in honor of Gildenarch.\n\nThe magnificant rams of the Treveyan Highlands have long inspired the city of Gildenarch since the days before the city's founding.\n\nNo matter what changes, some truth yet remains.",
+    "type": "Shield",
+    "weapon_art": "Shield Bash"
+  },
+  {
+    "icon": "T_Shield_SanctusZealot_1024.png",
+    "name": "Shield of the Zealot",
+    "description": "An ancient shield integral to Lunitarian history, both feared and respected.\n\nThe Holy Lineage drew a clear delineation between the Lunar Sentinels and the Church.\n\nThe Sanctus Zealot enforced the New Order.",
+    "type": "Shield",
+    "weapon_art": "Angelic Bulwark"
+  },
+  {
+    "icon": "T_Shield_MetalShield_1024.png",
+    "name": "Soldier\u2019s Shield",
+    "description": "A heater shield issued to Velchorian foot soldiers, faced in plain steel and trimmed in tarred leather.\n\nWeather-worn but serviceable; the Empire issues them in a single grade and replaces them only when the rim splits past the boss.",
+    "type": "Shield",
+    "weapon_art": "Shield Bash"
+  },
+  {
+    "icon": "T_Shield_Sovereign_1024.png",
+    "name": "Sovereign\u2019s Shield",
+    "description": "A tower shield bearing the heron of the Velchorian throne.\n\nCarried by Sovereign Sentries in the halls of the imperial court.\n\nThe herons were once the only banner the Empire flew; now they fly beneath the Lunitarian moon, and the Sentries say nothing about it.",
+    "type": "Shield",
+    "weapon_art": "Angelic Bulwark"
+  },
+  {
+    "icon": "T_Shield__Wooden_Ornate_1024.png",
+    "name": "Tarnished Wooden Shield",
+    "description": "A wooden shield, weather-worn and softened by moss along its grain.\n\nSalvaged from the bodies of conscripted militia who fell in the city's first night, before the Order arrived and the dying stopped being counted.",
+    "type": "Shield",
+    "weapon_art": "Shield Bash"
+  },
+  {
+    "icon": "T_Shield_Vampire_1024.png",
+    "name": "Telvaught Clan Shield",
+    "description": "The shield of the vampire clan Telvaught.\n\nVampire Clans engage in ideological conlicts no better than humanity.\n\nClan Telvaught knew this well, and was always prepared for battle against their kin.",
+    "type": "Shield",
+    "weapon_art": "Bleed Projectiles"
+  }
+]

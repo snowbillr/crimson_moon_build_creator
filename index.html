@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Crimson Moon Build Creator</title>
+    <style>
+      :root {
+        color-scheme: dark;
+      }
+      body {
+        font-family: Arial, sans-serif;
+        margin: 2rem;
+        background: #10131a;
+        color: #f0f4ff;
+      }
+      h1 {
+        margin-top: 0;
+      }
+      .panel {
+        background: #171d28;
+        border: 1px solid #2b3445;
+        border-radius: 8px;
+        padding: 1rem;
+        margin-bottom: 1rem;
+      }
+      .boon-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+        gap: 0.5rem;
+      }
+      label {
+        display: block;
+      }
+      .hint {
+        color: #f8c252;
+        margin-top: 0.5rem;
+      }
+      .results ul {
+        margin-top: 0.25rem;
+      }
+      .muted {
+        color: #b3bdd3;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Crimson Moon Build Creator</h1>
+    <p class="muted">Pick one boon and one weapon art to see valid weapon and trinket options.</p>
+
+    <section class="panel">
+      <h2>Desired Boon (max 1)</h2>
+      <div id="boon-options" class="boon-grid"></div>
+      <div id="boon-hint" class="hint"></div>
+    </section>
+
+    <section class="panel">
+      <h2>Desired Weapon Art</h2>
+      <label for="weapon-art-select">Weapon Art</label>
+      <select id="weapon-art-select">
+        <option value="">-- Select weapon art --</option>
+      </select>
+    </section>
+
+    <section class="panel results">
+      <h2>Valid Build Options</h2>
+      <div id="result-summary" class="muted">Select a weapon art to see matching loadouts.</div>
+      <div id="trinket-results"></div>
+      <div id="two-handed-results"></div>
+      <div id="one-handed-results"></div>
+    </section>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
